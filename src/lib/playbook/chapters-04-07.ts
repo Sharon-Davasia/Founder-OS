@@ -1,0 +1,348 @@
+import type { Chapter } from "./types";
+
+export const chaptersMid: Chapter[] = [
+  {
+    id: "team",
+    index: "04",
+    phase: "PHASE 2 · FOUNDATION",
+    title: "Co-founders & Equity",
+    tagline: "The highest-stakes marriage you'll sign in a coworking space.",
+    intro:
+      "The fastest way to kill a validated idea is the wrong team structure. YC's data is blunt: solo founders succeed far less often, and cofounder conflict is a top-3 cause of startup death. This chapter covers how to find and test a cofounder, split equity with math instead of vibes, set vesting so departures don't destroy everyone, and draft a founders' agreement before trust is ever tested. Do this early — agreements protect friendships, they don't threaten them.",
+    concepts: [
+      {
+        k: "RANKING",
+        title: "The cofounder calculus",
+        body: "Solo is possible but expensive: you carry every dark night and every dual skill gap alone. A great cofounder multiplies speed and survival odds; a bad one multiplies drama and dilution. Choose by evidence of working together, not friendship alone. The non-negotiable test: ship something hard together for 4–6 weeks (a hackathon, a prototype, a sales sprint) before merging futures. You're hiring for ten years — no offer letter after one coffee.",
+      },
+      {
+        k: "SKILLS",
+        title: "The skill triangle",
+        body: "Early teams need three capabilities: Build (can ship product), Sell (can get customers and fundraise), and Orchestrate (ops, finance, hiring, chaos absorption). Two founders covering all three is standard; three founders need explicit role lanes to avoid collision. Classically: the CEO owns 'outward' (customers, money, story), the CTO owns 'inward' (product, engineering). The cardinal sin: overlapping authority with no tiebreaker — deadlock kills faster than bugs.",
+      },
+      {
+        k: "EQUITY",
+        title: "Splits & vesting, done right",
+        body: "For equally-committed founders starting together, default to near-equal splits (50/50 or close) — startups die of unequal motivation more than unequal shares. Adjust meaningfully only for: prior work (6+ months sunk in), cash invested, or a joining-order gap. The absolute rule: everyone vests. Standard: 4 years, 1-year cliff, monthly thereafter. Vesting means 'earn your shares by staying' — a founder who leaves at month 8 keeps nothing; without it they could walk with 40% of the company forever. That is an existential landmine investors check for on day one.",
+      },
+      {
+        k: "DOCUMENT",
+        title: "The founders' agreement — sign before the honeymoon ends",
+        body: "Contents: equity split + vesting schedule; role definitions and decision rights (who is CEO; what needs both signatures); IP assignment to the company (everything you build is the company's, not yours); departure & firing terms (good leaver/bad leaver); salary expectations once funded; non-compete exclusivity; dispute resolution (mediate first). This 4-page conversation has saved more startups than any feature ever built. Template sources exist; a startup lawyer cleans it up in an hour.",
+      },
+      {
+        k: "HUNTING",
+        title: "Where cofounders are actually found",
+        body: "Ranked pools: (1) People you've shipped with — batchmates, hackathon teammates, open-source co-maintainers; (2) Adjacent communities — robotics club, college e-cell, Discord servers with real builders; (3) Structured matching — accelerator co-founder programs, YC's matching platform; (4) Cold outreach to operators you admire with a built demo, not a dream. Whatever the source: run the 4–6 week ship-test before paperwork.",
+      },
+      {
+        k: "EXPANSION",
+        title: "Advisors, ESOP, and early hiring",
+        body: "Advisors trade 0.25–1% equity (vested over 2 years) during the pre-seed phase for real obligations written down: intros, monthly calls, domain review. Random '10% advisor' asks from professors are charitable gifts, not strategy — say no gracefully. Plan an ESOP pool now (10% is standard-ish at seed) because key hires will ask. First hires: pay in learning + ownership, not market salary; hire for slope over intercept.",
+      },
+    ],
+    checklist: [
+      { text: "Shipped something real with your cofounder candidate for 4–6 weeks first" },
+      { text: "Skill triangle covered: build / sell / orchestrate — gaps named honestly" },
+      { text: "CEO named; tiebreaker mechanism agreed for deadlocks" },
+      { text: "Equity split discussed out loud with numbers, not gestures" },
+      { text: "Everyone vesting: 4-year, 1-year cliff, monthly after", note: "No exceptions, including yourself" },
+      { text: "IP assignment signed — code and ideas belong to the entity" },
+      { text: "Founders' agreement drafted covering exit/firing scenarios" },
+      { text: "Had The Conversation: what if one of us wants out in a year?" },
+      { text: "ESOP pool concept understood (reserve ~10% by seed)" },
+      { text: "Advisor offers only for written, reciprocal obligations" },
+      { text: "Weekly founder sync scheduled — same time, every week, non-negotiable" },
+      { text: "Decided what happens to equity and titles on departure — in writing" },
+    ],
+    mistakes: [
+      {
+        title: "Handshake equity with no vesting",
+        body: "The classic campus tragedy: 33/33/33 on day one, one founder joins a bank at month 4, keeps a third of the company forever. Survivors build for three years while the tourist pays for vacations with their equity. Vesting or nothing.",
+      },
+      {
+        title: "Choosing skills over character",
+        body: "A brilliant coder who vanishes under pressure is worse than a decent coder who shows up at 2am. Stress-test character in the trial period: small conflicts, missed deadlines, customer rejection. Skills compound; character rarely changes.",
+      },
+      {
+        title: "Unequal splits for unequal commitment",
+        body: "If one founder is full-time and one 'helps on weekends', that is an employee, not a cofounder — price it that way or formalize full-time dates with equity adjustments. Ambiguity here festers exactly until money arrives, then explodes.",
+      },
+      {
+        title: "Advisor dilution charity",
+        body: "Equity is the most expensive currency in the world to you. 5% to a friendly mentor = millions of future dollars for a few lunches. Standard advisor grants are 0.25–1%, vested, obligating mutual effort.",
+      },
+    ],
+    terms: [
+      { term: "Vesting", def: "Equity earned over time; standard 4 years with a 1-year cliff" },
+      { term: "Cliff", def: "The one-year mark before which no shares vest; leavers before it keep nothing" },
+      { term: "IP assignment", def: "Legal transfer of all work output to the company entity" },
+      { term: "ESOP", def: "Employee stock option pool — reserved equity for hiring (usually 10–15% by Series A)" },
+      { term: "Good/bad leaver", def: "Terms deciding how a departing founder's equity is treated" },
+      { term: "Reverse vesting", def: "Founders technically own shares that the company can repurchase if they leave" },
+      { term: "Decision rights", def: "Predefined map of who decides what; prevents cofounder deadlock" },
+      { term: "Slope over intercept", def: "Hiring for learning rate instead of current credentials" },
+      { term: "EIR", def: "Entrepreneur-in-residence — funds host founders between companies" },
+      { term: "Cofounder divorce", def: "The acrimonious founder split; top-3 startup killer, preventable by paperwork" },
+    ],
+    gate: "GATE 04 — Vested equity, signed IP assignment, named CEO, and a founders' agreement.",
+  },
+  {
+    id: "model",
+    index: "05",
+    phase: "PHASE 2 · FOUNDATION",
+    title: "Business Model & Unit Economics",
+    tagline: "Who pays, how much, and why the math gets better as you grow.",
+    intro:
+      "A product with no model is a feature; a model with no economics is a donation. This chapter maps the proven business models (steal, don't invent), the pricing psychology that separates $9 hobby apps from $900 tools, and the unit economics vocabulary — CAC, LTV, payback, churn — that every investor meeting and internal decision will run on. You should be able to compute these for your startup on a coffee-stained napkin, at any hour, from memory.",
+    concepts: [
+      {
+        k: "MENU",
+        title: "The model menu — pick a proven one",
+        body: "SaaS (subscription per seat/usage — beloved for recurring revenue); Marketplace (take rate 5–25% of each transaction — hard to start, unbeatable at scale); Transaction fees (fintech's favorite); Freemium (free tier as marketing, 2–5% convert); Usage-based (API pricing, aligns cost with value); Razor-blade (cheap device, recurring consumable); Licensing (deep tech/research commercialization); Services-to-product (consult manually, automate gradually). Rule: innovate in product, not model. Novel models require educating the buyer — a tax a 3-person team can't pay.",
+      },
+      {
+        k: "PRICING",
+        title: "Pricing — the most underused lever",
+        body: "Price on value delivered, not cost incurred: if your tool saves 10 hours of $50/hr labor monthly, $149/mo is a bargain and $15/mo is a branding problem ('if it's cheap it can't be serious'). Psychology that works: three tiers (most choose the middle), anchor the enterprise tier high, annual-billing discounts (2 months free), and price increases on grandfathered cohorts only. Underpricing is a top-5 killer — it destroys your testing surface and your credibility simultaneously. Charge from week one; 'free forever' experiments teach you nothing about willingness to pay.",
+      },
+      {
+        k: "VOCAB",
+        title: "CAC & ARPU — the two atoms",
+        body: "CAC (customer acquisition cost) = total sales+marketing spend ÷ new customers acquired. Include founder time at a nominal salary or you'll lie to yourself. ARPU (average revenue per user/account, monthly) = MRR ÷ customers. Track per channel: organic CAC ≈ time cost; paid CAC is cash. The hobbyist tracks downloads; the operator knows that Instagram ads bring customers at $41 while referrals bring them at $6 — and behaves accordingly.",
+      },
+      {
+        k: "VOCAB",
+        title: "LTV, churn and the golden ratios",
+        body: "LTV (lifetime value) ≈ ARPU × gross margin % ÷ monthly churn. At 5% monthly churn, average customer life is 20 months. The golden ratio: LTV:CAC ≥ 3 and CAC payback ≤ 12 months means a healthy, scalable machine; <12-month payback at seed is strong. Segment everything: blended churn hides that your enterprise customers stay 4 years and your free converters churn in week 2 — which tells you exactly where the model actually works.",
+      },
+      {
+        k: "REVENUE",
+        title: "Revenue quality hierarchy",
+        body: "Investigators rank your revenue: (1) Annual prepaid contracts (cash + commitment), (2) recurring monthly subscriptions, (3) usage revenue (grows with customers, volatile), (4) one-time fees (services, setup). A startup with $5K MRR beats one with $50K in one-offs at due-diligence time. Beware services doing costumes: wearing consulting as 'revenue' to fake product traction is the oldest due-diligence fail in the book.",
+      },
+      {
+        k: "EXPERIMENTS",
+        title: "Monetization experiment menu",
+        body: "Run cheap pricing probes before you have 100 users: (a) quote a price in sales calls before building; refusals are data; (b) offer two prices to different cohorts and compare conversion; (c) pre-sell an annual plan at 40% off to power users for cash flow; (d) add a fake 'Pro' checkout page measuring purchase-intent clicks. Pricing is the artifact you'll iterate most and fear most — touching it monthly is senior behavior; freezing it for a year is amateur.",
+      },
+    ],
+    checklist: [
+      { text: "Picked a proven model from the menu — no model innovation yet" },
+      { text: "Price anchored to value delivered (hours saved, revenue made), not costs" },
+      { text: "Three-tier pricing sketched with a deliberate middle-tier target" },
+      { text: "CAC computed per channel including founder-time cost" },
+      { text: "ARPU and churn defined and measurable today, even with 3 users" },
+      { text: "LTV:CAC math done on paper — path to ≥3 visible" },
+      { text: "CAC payback estimate ≤ 18 months at seed, improving with scale" },
+      { text: "Churn tracked per cohort from the first week of paying users" },
+      { text: "One monetization experiment run before product was 'done'" },
+      { text: "Know your revenue quality target: recurring > usage > one-time" },
+      { text: "Decided who the economic buyer is vs. the user — they differ in B2B" },
+      { text: "Set a calendar reminder: revisit pricing every 90 days" },
+    ],
+    mistakes: [
+      {
+        title: "Free forever as a strategy",
+        body: "Free is a tactic to buy data or distribution, never a model (unless you are deliberately building an ads business, in which case, see the next landmine). Customers who never paid will never tell you the truth about value. Charge early; discount generously; refund happily — but charge.",
+      },
+      {
+        title: "Ads-first dreams for niche tools",
+        body: "Advertising math is brutal: you need millions of engaged eyeballs to fund salaries. B2B and niche consumer tools should charge their users. If your answer to 'who pays' is 'advertisers someday', you don't have a business model, you have a hope placeholder.",
+      },
+      {
+        title: "Blended metrics that bury the truth",
+        body: "Averages lie across mixed segments. '30% churn' might be '5% enterprise, 60% self-serve' — telling you exactly what to build. Slice cohorts by channel, plan, and size before drawing any conclusion.",
+      },
+      {
+        title: "Vanity revenue",
+        body: "One giant 'client' doing custom services inflates the revenue line and crushes roadmap, margins, and valuation quality. Investors apply services-revenue haircuts; your team pays the longer price in focus lost.",
+      },
+    ],
+    terms: [
+      { term: "MRR / ARR", def: "Monthly / annual recurring revenue — the heartbeat metric of subscription businesses" },
+      { term: "CAC", def: "Customer acquisition cost — fully-loaded sales+marketing ÷ new customers" },
+      { term: "LTV", def: "Lifetime value ≈ ARPU × gross margin ÷ churn rate" },
+      { term: "Churn", def: "Share of customers or revenue lost per period; logo churn vs. revenue churn differ" },
+      { term: "Take rate", def: "The % of each marketplace transaction you capture" },
+      { term: "Gross margin", def: "Revenue minus cost-to-serve; software targets 70–85%" },
+      { term: "Payback period", def: "Months of gross-margin revenue needed to recover CAC" },
+      { term: "NDR", def: "Net dollar retention — >100% means existing customers grow faster than they leave" },
+      { term: "Freemium vs. trial", def: "Free-forever tier vs. time-boxed full access; trials learn faster" },
+      { term: "Economic buyer", def: "The person whose budget pays — often not the daily user" },
+    ],
+    gate: "GATE 05 — A proven model chosen, value-based pricing drafted, and unit economics you can recite cold.",
+  },
+  {
+    id: "mvp",
+    index: "06",
+    phase: "PHASE 3 · BUILD & LAUNCH",
+    title: "MVP & Building",
+    tagline: "Minimum effort, maximum learning. Ship the embarrassing version.",
+    intro:
+      "The MVP exists to answer one question: does the loop run — do strangers reach the 'aha' moment and return? Everything beyond that is vanity engineering that burns your scarcest resource. This chapter covers the MVP spectrum from pure service to real code, the scope-cutting discipline that gets you live in 6 weeks instead of 6 months, shipping cadence, feedback infrastructure, and the pivot/persevere signals that tell you when the data demands a turn.",
+    concepts: [
+      {
+        k: "SPECTRUM",
+        title: "The MVP spectrum — pick your altitude",
+        body: "From cheapest to costliest: Concierge (purely manual service — you ARE the algorithm); Wizard of Oz (a façade of software powered by you at midnight); Landing + waitlist (describes the product, measures desire); No-code composite (Retool/Airtable/Notion/Zapier gluing the workflow); Single-feature app (does one job stupidly well). The correct choice for most first-time founders: start at concierge, earn the right to code. Every line of code written before 10 concierge deliveries is a bet without data.",
+      },
+      {
+        k: "SCOPE",
+        title: "Scope-casing: cut until it hurts",
+        body: "Write the core loop in one sentence: 'User does X → gets Y value → comes back for Z.' Map the loop to screens, then cut every screen that doesn't serve it. Auth? Use magic links. Settings page? There is one setting. Onboarding emails? Send them yourself from Gmail. Plan as if it ships in 4–6 weeks: if the plan says 4 months, halve the scope, don't extend the timeline. Teams who cut scope keep morale; teams who slip dates lose it.",
+      },
+      {
+        k: "TECH",
+        title: "Boring tech, fast deploys",
+        body: "Choose the stack you can deploy in a day (e.g., Next.js + Postgres + a hosted backend), not the stack of your engineering fantasies. Resist: microservices, Kubernetes, blockchain-anything, and premature AI-training. Buy everything (auth, payments, emails), build only the wedge. Your MVP's engineering KPI is minutes from commit to production. Elegance is a post-PMF luxury; Instagram launched with a Django monolith, WhatsApp served billions of messages on Erlang few had heard of.",
+      },
+      {
+        k: "CADENCE",
+        title: "The shipping cadence + alpha/beta discipline",
+        body: "Internal alpha week: team and 5 forgiving friends — hunt crashes with a bug bash. Closed beta weeks 2–4: 20–50 interview-sourced users onboarded personally on calls — you watch them use it live (screen-share is the greatest UX tool ever built). Public open sprint after. Ship weekly at minimum; every cohort of users should touch an actually-improved product. No roadmap beyond the next two sprints — evidence rewrites priorities weekly at this stage.",
+      },
+      {
+        k: "FEEDBACK",
+        title: "Feedback infrastructure from user #1",
+        body: "Instrument the core loop events (signup, key action, return) from day one — analytics are your eyes. Then build the habit loop: every user gets a personal check-in at day 3 and day 10, one question each ('what almost stopped you from coming back?'). Weekly synthesis: tag feedback into bugs / confusions / requests / raves, and ship against the top tag. A public changelog compounds trust. Beware the loudest-customer tax: one loud corp user ≠ the market.",
+      },
+      {
+        k: "JUDGMENT",
+        title: "Pivot, persevere, or patch",
+        body: "The honest review, every 4 weeks: (1) Love test — do any 10 users say they'd be 'very disappointed' without it (Sean Ellis's 40% PMF threshold needs scale, but direction matters now); (2) Retention shape — flat curve is gold, decaying cliff is danger; (3) Growth — referrals happening unforced? Patch = fix friction; persevere = the loop runs but the funnel leaks; pivot = change the customer, the problem framing, or the delivery model (Zoom pivoted from enterprise-only to bottom-up; Slack pivoted from a game's chat tool). A pivot is a chess move with saved pieces — not a funeral.",
+      },
+    ],
+    checklist: [
+      { text: "MVP altitude chosen: concierge or Wizard of Oz before any code", note: "Earn the right to build" },
+      { text: "Core loop written in one sentence — every feature maps to it" },
+      { text: "Build plan capped at 4–6 weeks; scope cut, not deadlines" },
+      { text: "Stack chosen for deploy speed: boring, hosted, bought-not-built internals" },
+      { text: "One 'wow' moment engineered into first 10 minutes of use" },
+      { text: "Core events instrumented: signup → key action → return" },
+      { text: "Onboarded every beta user personally with a live screen-share" },
+      { text: "Weekly ship rhythm established and held for 4+ weeks" },
+      { text: "Public changelog started, however embarrassing version 0.1 was" },
+      { text: "Day-3 and day-10 check-in questions scheduled for every user" },
+      { text: "4-weekly pivot/persevere review in the calendar" },
+      { text: "Tech-debt log — every shortcut noted for post-PMF paydown" },
+    ],
+    mistakes: [
+      {
+        title: "The 9-month 'almost ready' MVP",
+        body: "Long incubation usually hides fear of rejection, not engineering necessity. If you're embarrassed by version 1, you're on schedule (Reid Hoffman: if you're not embarrassed, you launched too late). Embarrassment is the receipt that you spent time on learning, not hiding.",
+      },
+      {
+        title: "Feature-request obedience",
+        body: "Users ask for features; they mean outcomes. Build for the pattern across 10 users, using the 5-why technique to find the job underneath each request. Obedient teams drown in the feature tarpit — max complexity, defensible nothing.",
+      },
+      {
+        title: "Scaling before PMF",
+        body: "Hiring sales, buying ads, adding enterprise 'hardening' before retention flattens is pouring fuel into a car with no engine. The sequence exists because each stage's evidence gates the next stage's spending. Premature scaling is the #1 killer in the Startup Genome data.",
+      },
+      {
+        title: "Rewrites of convenience",
+        body: "'The codebase is messy, let's rebuild properly' at month 5 is nearly always a morale decision masquerading as an engineering one. Refactor around the burning core; total rewrites burn learning and time simultaneously.",
+      },
+    ],
+    terms: [
+      { term: "MVP", def: "Minimum viable product — the smallest artifact that generates maximum validated learning" },
+      { term: "Concierge MVP", def: "Manually serving customers before automation; you are the backend" },
+      { term: "Core loop", def: "Action → value → return — the atomic cycle of your product" },
+      { term: "Aha moment", def: "The instant a user first feels the value (Facebook: 7 friends in 10 days)" },
+      { term: "PMF survey", def: "Sean Ellis's 'very disappointed' test; 40%+ is the classic threshold" },
+      { term: "Fake it till you scale it", def: "Manual ops dressed as product until demand justifies automation" },
+      { term: "Technical debt", def: "Shortcuts borrowed against future velocity; log it, repay it deliberately" },
+      { term: "Changelog", def: "Public record of shipped improvements; compounds user trust" },
+      { term: "Feature tarpit", def: "The swamp where teams add features request-by-request into unusable complexity" },
+      { term: "Premature scaling", def: "Spending on growth machinery before retention proves the engine exists" },
+    ],
+    gate: "GATE 06 — A shipped loop, 20+ real users onboarded personally, and returning behavior visible.",
+  },
+  {
+    id: "launch",
+    index: "07",
+    phase: "PHASE 3 · BUILD & LAUNCH",
+    title: "Launch & Distribution",
+    tagline: "Great products with no distribution get burials, not funding.",
+    intro:
+      "The whispered secret of the startup game: distribution is half the company. This chapter covers the disciplined launch (waitlists, founder-led sales, launch-day mechanics), the channels that actually compound (content, community, SEO, partnerships, referrals), and the channel-market-fit hunt that ends the spray-and-pray era. Manual, unscalable moves aren't a phase to rush through — they're the training data for everything you'll later automate.",
+    concepts: [
+      {
+        k: "MANUAL",
+        title: "Do things that don't scale",
+        body: "Paul Graham's most actionable essay: Stripe founders installed payment code on laptops in person ('Collison installation'); Airbnb flew to NYC weekly to photograph hosts' apartments; DoorDash delivered the food themselves. Your first 100 users should feel hand-delivered. Manual service buys three things money can't: exact workflow knowledge, word-of-mouth in dense niches, and stories you'll pitch with for years. Automation earned by hand > automation built on guesses.",
+      },
+      {
+        k: "CHANNEL",
+        title: "Channel-market fit and the 3-channel rule",
+        body: "Channels have physics: SEO compounds for years but pays nothing for 6 months; paid ads teach fast but scale linearly with spend; communities nurture trust slowly but convert at 10×; outbound delivers this week but dies when you stop dialing. The rule: test 3 channels cheaply in parallel for 4 weeks, pick ONE winner, then double down until it saturates. Every-week-is-a-new-channel behavior is panic, not experimentation. Match channel to buyer: developers live in docs and GitHub; SMB owners live in WhatsApp and Facebook groups; enterprises live in LinkedIn and referrals.",
+      },
+      {
+        k: "OUTREACH",
+        title: "Cold outreach that actually converts",
+        body: "Founder-led sales still beats everything in the first $1M. Formula: 3-sentence maximum — (1) specific observation about them ('saw your clinic post about no-show rates'), (2) the outcome you've delivered for someone like them ('we cut no-shows 31% at a 4-chair practice in 6 weeks'), (3) a low-friction ask ('worth 12 minutes this week?'). One follow-up at day 3, one at day 7, then stop. Expected reality check: 20–30% replies in tight niches, 1–3% in sprayed ones. Volume is a skill tax; start at 10/day, not 1,000 canned blasts.",
+      },
+      {
+        k: "LAUNCH DAY",
+        title: "The launch-day playbook",
+        body: "Treat launches as recurring events, not once-in-history cathedrals. Product Hunt mechanics: launch Tuesday–Thursday 12:01am PT, align 50 genuine supporters to comment/discuss (not blind votes — the algos discount them), founder answers every comment personally, hunter/relevant communities pre-warmed a week before. Beyond PH: Hacker News 'Show HN', niche subreddits and Slack/Discord communities, an X/LinkedIn build-in-public thread, and one founder-letter email to everyone who ever talked to you. Marry every launch with a no-arguation waitlist → convert 48 hours later.",
+      },
+      {
+        k: "COMPOUND",
+        title: "Owned audiences & the build-in-public engine",
+        body: "Rented reach (algorithms) decays; owned audiences (email lists, community members) compound. Run the flywheel: ship weekly → write the build-log (metrics, failures, decisions) → distribute to newsletter/LinkedIn/Discord → readers become users, users become stories, stories become content. Founders underestimate narrative consistency: one topic, one honest voice, 200 weeks. The companies you admire got good at being interesting in public long before they were good at ads.",
+      },
+      {
+        k: "LOOPS",
+        title: "Growth loops > funnels",
+        body: "Funnels leak and need refilling (ads stop, traffic stops); loops reinvest their own output: a user invites teammates (Slack's loop), a transaction creates a story that attracts buyers (Etsy), each user's data improves the product for all (Waze). Sketch your primary loop: what does every satisfied user naturally produce that recruits the next user? Virality isn't luck — coefficient K = invites sent × conversion per invite; K>1 is compound growth, K≈0.3 still slashes CAC meaningfully. Architect at least one loop into the product itself this quarter.",
+      },
+    ],
+    checklist: [
+      { text: "First 10 customers acquired by hand — no ads, no shortcuts" },
+      { text: "One B2B/C founder-led outreach template under 3 sentences, tested on 50 targets" },
+      { text: "3 channels tested in parallel for 4 weeks with a tracking sheet" },
+      { text: "One channel doubled-down; the others consciously paused" },
+      { text: "Waitlist live with a reason-to-share mechanism (position jumps for referrals)" },
+      { text: "Launch calendar: PH/HN/community/letter mapped across one month" },
+      { text: "Email capture lives on every surface — owned audience growing weekly" },
+      { text: "Build-in-public cadence: one honest post per week, metrics included" },
+      { text: "Primary growth loop sketched with its physics written down" },
+      { text: "Referral ask embedded at the user's moment of delight, not on the pricing page" },
+      { text: "Reply-to-every-message policy for the first 1,000 users" },
+      { text: "CAC per channel tracked — you can name your cheapest channel today" },
+    ],
+    mistakes: [
+      {
+        title: "Advertising before messaging",
+        body: "Paid ads amplify your message; if the message is unproven, you're paying to A/B test at casino prices. Earn your copy from 30 interviews and 50 cold emails' worth of reply data first — the words that convert in DMs become the ads that convert at scale.",
+      },
+      {
+        title: "Launching once",
+        body: "Treating launch as a single-day event makes one bad Tuesday fatal. Serial launchers win: v0.1 to the community list, v0.3 to Product Hunt, v0.6 press, every 6–8 weeks. Each launch is marketing inventory purchased with product progress.",
+      },
+      {
+        title: "Ten shallow channels instead of one deep one",
+        body: "The 'we're on TikTok, Instagram, X, LinkedIn, SEO, ads' startup is on none of them. Depth beats breadth: one channel operated by someone who knows its physics will out-pull ten channels operated by tourists.",
+      },
+      {
+        title: "Growing what leaks — retention invisible",
+        body: "Pouring acquisition through a hole-filled bucket converts marketing spend into churn data. If users don't stay through month one, stop acquisition hunts and fix the bucket. Growth marketing on top of a flat retention curve is a machine; on top of a cliff it's an expensive illusion.",
+      },
+    ],
+    terms: [
+      { term: "Collison installation", def: "Stripe's trick of installing the product on customers' laptops in person" },
+      { term: "Channel-market fit", def: "A repeatable, profitable match between a distribution channel and your buyer" },
+      { term: "Founder-led sales", def: "The CEO running sales personally to the first ~$1M ARR" },
+      { term: "Build in public", def: "Openly sharing metrics, decisions and failures as a marketing engine" },
+      { term: "K-factor", def: "Viral coefficient — invites per user × conversion; >1 is exponential" },
+      { term: "Growth loop", def: "A self-refilling acquisition cycle fueled by the product's own usage" },
+      { term: "Owned vs. rented reach", def: "Audiences you control (email) vs. algorithms you borrow (feeds)" },
+      { term: "LTV payback by channel", def: "The per-channel match of value to acquisition cost" },
+      { term: "Sales-led vs. product-led", def: "Humans close deals vs. the product itself converts users (PLG)" },
+      { term: "Wedge feature", def: "The single viral/signature feature that drags the whole product behind it" },
+    ],
+    gate: "GATE 07 — 10+ hand-won customers, one working channel, and a growth loop in motion.",
+  },
+];

@@ -1,0 +1,1061 @@
+FOUNDER/OS — THE COMPLETE STARTUP PLAYBOOK
+REV 1.0 · GENERATED 2026-09-26 · PRINT FREELY
+Every card in the game — from first idea to signed term sheet.
+
+12 chapters · 74 concept briefs · 136 checkpoints · 124 terms
+
+HOW TO USE THIS MANUAL
+Each chapter teaches the mechanics, hands you a field checklist, names
+the landmines founders step on, builds your lexicon — then locks a gate
+behind you. Do not read it like a novel. Run it like a machine.
+
+CONTENTS
+  CH.00  The Game
+  CH.01  Ideation
+  CH.02  Validation
+  CH.03  Market & Moats
+  CH.04  Co-founders & Equity
+  CH.05  Business Model & Unit Economics
+  CH.06  MVP & Building
+  CH.07  Launch & Distribution
+  CH.08  Legal & Formation
+  CH.09  Pitching & Storytelling
+  CH.10  Funding Mechanics
+  CH.11  Growth, Metrics & the Long Game
+  APPENDIX A  The Six Founder Laws
+
+
+========================================================================
+CHAPTER 00 — THE GAME
+PHASE 0 · ORIENTATION
+"Learn the rules of the board before you play a single card."
+========================================================================
+
+A startup is not a small business. It is a temporary organization designed to search for a repeatable, scalable business model under conditions of extreme uncertainty. Everything in this playbook — the validation loops, the equity splits, the SAFE notes — exists to manage that uncertainty. Understand the physics of the game first: startups run on growth, are fueled by risk capital, and are judged by power laws, not averages.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[DEFINITION] What a startup actually is
+Steve Blank's definition is canon: a startup is a temporary organization searching for a repeatable and scalable business model. The keywords are searching, repeatable, and scalable. A bakery is a business — its model is proven the day ovens turn on. A bakery-tech platform that lets 10,000 home bakers sell through one app is a startup — the model is a hypothesis that must be discovered. Your job in months 0–12 is not execution, it is search.
+
+[PHYSICS] Growth is the definition, not the goal
+Paul Graham argues that the one essential thing about a startup is growth: roughly 5–7% a week in the early days is good, 10% exceptional. Everything else — team, brand, patents, press — is downstream of whether more people want the thing each week. This is why startups measure weekly active users in week one and revenue per customer before logos. If you remember one number from this manual, remember growth rate.
+
+[MATH] Power laws and venture math
+Startup outcomes follow a power law: in a portfolio of 30 startups, one typically returns more than the other 29 combined. This shapes every investor you will ever meet. They are not asking 'can this be profitable' — they are asking 'can this return the whole fund'. That means a believable path to $100M+ in revenue. If your idea is great but capped at $2M a year, bootstrap it proudly instead of forcing it onto the venture rails.
+
+[SURVIVAL] Default alive or default dead
+Ask yourself: on current trajectory, with expenses as they are, does the company reach profitability before the money runs out? If yes, you are default alive — you control your destiny. If no, you are default dead — you are betting everything on the next fundraise. Founders who know which they are make calm decisions; founders who don't, panic at month nine of an eighteen-month runway.
+
+[CURRENCY] The three currencies you spend
+Startups consume three currencies: time (your 20s, your weekends), attention (every feature you build is ten you didn't), and equity (the ownership you trade for fuel). Spend them in that order — time is worth least when young, equity is the most precious thing you will ever sell. A founder who gives away 30% before validating anything has inverted the exchange rate.
+
+[MAP] The whole journey at a glance
+The game has four quests: Discovery (chapters 01–03 — find a problem worth solving), Foundation (04–05 — assemble team and economics), Build & Launch (06–08 — ship product, find distribution, set up legal rails), and Fuel & Scale (09–11 — pitch, raise, compound growth). Each quest ends at a gate. You do not skip gates; skipping is what 'failing startups' is short for.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] Can explain, in one breath, how a startup differs from a small business
+     ↳ Search for a model vs. execution of a known model
+[ ] Know whether your ambition is venture-scale or bootstrap-scale
+     ↳ Both are legitimate; choosing confusion is fatal
+[ ] Understand power-law logic and what it implies for market size
+[ ] Computed your personal runway — months of savings if revenue is $0
+[ ] Named your real weekly time budget: 10h, 25h, or 60h
+     ↳ Plan the game around the truth, not the fantasy
+[ ] Decided your risk window — graduate, switch jobs, or go all-in date
+[ ] Read two founder post-mortems this week
+     ↳ Causes of death repeat; the autopsies are public
+[ ] Set a review ritual — 30 minutes every Sunday on metrics and learning
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. Playing startup instead of startups
+    Logos, incubators, business cards and pitch events feel like progress but are cosplay. The only undebatable progress is learning from real users and growth in a number that matters. Budget 10% of your time for the theater, 90% for the craft.
+
+02. Confusing the venture path with the only path
+    A $2M/year business you own 100% of will change your life more reliably than a lottery ticket you own 8% of. Choose the financing strategy that fits the idea's market size — not the one Twitter celebrates.
+
+03. Optimizing for looking fundable too early
+    Investors fund evidence, not aesthetics. Three honest pilot customers beat a cinematic deck. Sequence: evidence first, storytelling second.
+
+04. Zero-autopsy flying
+    Most startups die of a small set of diseases: no market need, cofounder divorce, running out of cash, pricing, and ignoring users. Studying failure modes is the cheapest insurance in the entire game.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+PMF — Product-market fit — the moment retention flattens and the market pulls the product out of you
+Runway — Cash in bank ÷ monthly net burn — how many months you have left to live
+Burn rate — Net cash spent per month; gross burn minus revenue
+Dilution — The shrinking of your ownership as new shares are issued to investors or the ESOP pool
+Power law — Outcome distribution where the top 1–2 companies return more than everything else combined
+Default alive — On current trajectory you reach profitability before cash-out
+Bootstrapping — Funding growth from revenue and savings instead of external capital
+Pivot — A structured change of strategy while keeping the same vision — not a random restart
+Derisking — Systematically killing the biggest assumption that could kill the company, in order of lethality
+Search vs. execute — The two startup modes: searching for a model (0→1) or executing a proven one (1→n)
+
+────────────────────────────────────────────────────────────────────────
+» GATE 00 — You can state which game you are playing: bootstrap or venture, and why this idea fits its rails.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 01 — IDEATION
+PHASE 1 · DISCOVERY
+"Ideas are mined, not mused. Learn the six seams where they hide."
+========================================================================
+
+Mediocre founders brainstorm; great founders prospect. Startup ideas are not lightning bolts — they are seams in the world that open briefly: a new technology, a new regulation, a new behavior, a neglected workflow. Your mission in this chapter is to build an idea engine: a repeatable method that surfaces twenty candidate problems, scores them honestly, and selects one with a genuine edge. Note: you are choosing a problem, not a solution. Solutions are cheap and change weekly; problems are durable.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[SEAM 1] Pain mining your own life
+Keep a frustration journal for 14 days. Every time you or someone near you says 'why is this so painful', 'I have a spreadsheet for this', or 'I pay someone to do this', write it down. Workflows people route around with spreadsheets, WhatsApp groups, or part-time interns are un-mined gold. The best qualifier: you have unusually deep context on a niche most 20-year-olds don't — a parent's clinic, a family factory, a campus bureaucracy you've navigated for years.
+
+[SEAM 2] Workflow autopsies in the real economy
+Pick a legacy industry — logistics, construction, labs, farms, kitchens, clinics — and shadow someone for a day. Watch for: copy-paste between two systems, re-entered data, phone-tag scheduling, paperwork awaiting signatures, and 'that's just how it is' moments. Each is a software-shaped hole. Boring industries are better: fewer tourists, real willingness to pay, customers who answer emails because the problem actually haunts them.
+
+[SEAM 3] Technology shifts — 'what did this just make possible?'
+Every technology wave makes old impossibilities suddenly cheap: GPS made Uber, smartphones made Instagram, LLMs make inferencing-at-zero-marginal-cost. Take a current shift — on-device AI, cheap satellites, lab automation, GLP-1s, robotics components — and ask: which long-standing human process now collapses from 10 hours to 10 seconds? The correct question is never 'what can we build with AI' but 'which painful process just became trivial'.
+
+[SEAM 4] Regulation, demographic and cultural cracks
+New rules create new markets overnight: privacy law spawned a compliance industry; telemedicine regulation unlocked remote care; carbon disclosure rules created carbon accounting startups. Track bills passing, licenses being issued, demographics inflecting (aging populations, degree inflation, urban density). Founders who read policy documents get 18-month head starts on founders who read TechCrunch.
+
+[FRAMEWORK] Jobs-To-Be-Done: the lens for every idea
+Customers don't buy products; they hire them to make progress in a circumstance. The milkshake lesson: commuters 'hired' a milkshake to survive a boring drive, not for taste. For every candidate idea write the job story: 'When [situation], I want to [motivation], so I can [outcome]'. If you cannot write it crisply for a named human, the idea is fog. Interviews in chapter 02 exist to fill in these blanks with real words.
+
+[FRAMEWORK] The Idea Score matrix
+Score each candidate 1–5 on seven axes: Founder fit (unfair knowledge/skills), Pain intensity (hair-on-fire?), Willingness to pay (existing budget line or new one), Market size (TAM, can it reach $100M revenue if venture), Timing (why now, not why 5 years ago), Defensibility (what compounds), and Reachability (can you actually get in front of buyers this month). Anything under 26/35 is a hobby. Kill it kindly.
+
+[PRACTICE] The 10-idea sprint + idea journal
+Run a two-week sprint: one scored idea per day, written before midnight, forcing functions over inspiration. Keep the journal forever — ideas compound, and today's bad idea becomes next year's obvious one when a shift lands. Ship constraints: university founders have unique deal flow — professor research, campus pilots, institutional customers, and free smart labor. Score student-startable distribution as a bonus.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] 14-day frustration journal complete with 30+ raw entries
+[ ] Shadowed one real workflow for a full day outside your own bubble
+[ ] Listed 3 technology/regulation shifts and what each newly makes cheap
+     ↳ Use today's actual frontier, not 2019's
+[ ] Written JTBD job stories for your top 3 candidate problems
+[ ] Scored top 3 ideas on the 7-axis matrix; winner ≥ 26/35
+[ ] Identified your unfair advantage: knowledge, access, or skill nobody else on campus has
+[ ] Named the beachhead: the narrow first niche you can monopolize
+     ↳ Facebook started at Harvard, not Earth
+[ ] Confirmed the problem is frequent AND painful — not rare-but-cute
+[ ] Checked the idea against your 10-year self: could I care about this for a decade?
+[ ] Killed at least 5 ideas on paper — prove your engine has brakes
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. Starting from a solution looking for a problem
+    'An AI app for X' with zero suffering humans attached is the most common startup corpse. Fall in love with a problem — a named, bleeding one — and let the solution mutate weekly until it fits.
+
+02. Idea secrecy paranoia
+    Refusing to talk about your idea 'because someone will steal it' costs you the only thing that matters at this stage: information. Ideas are worthless multipliers — execution is the exponent. Talk to everyone; NDA theater is chapter 08 calculus and almost never applies.
+
+03. Choosing crowded 'idea hot tubs'
+    Food delivery, note-taking, generic to-do apps, 'Tinder for Y' — these attract founders for social reasons, not market reasons. In overcrowded seams you compete on marketing budgets you don't have. Boring problems hide unclaimed budgets.
+
+04. Ignoring the 'why now' test
+    If your idea was equally buildable in 2015, ask why it doesn't already exist and dominate. 'Nobody thought of it' is almost never true; 'the enabling piece didn't exist' is the answer you're hunting for.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+JTBD — Jobs-To-Be-Done — the progress a customer hires a product to make
+Seam — A structural opening — tech, regulation, or behavior shift — where new companies fit
+Founder-market fit — Your specific edge of insight/access over every other team chasing this problem
+Beachhead — The deliberately tiny first market you dominate before expanding (Amazon: books)
+Hair-on-fire problem — A pain so acute customers are already duct-taping solutions and paying for them
+Vitamin vs. painkiller — Nice-to-have vs. must-buy; startups selling vitamins die waiting for budgets
+Idea maze — Balaji Srinivasan's map of the decision tree of a market — good founders pre-compute it
+Unfair advantage — A durable edge that cannot be copied or bought this quarter
+TAM — Total addressable market — see chapter 03 for honest sizing
+Counter-positioning — Modeling your business so incumbents lose money by copying you
+
+────────────────────────────────────────────────────────────────────────
+» GATE 01 — One scored, painful problem, a named beachhead niche, and a defensible 'why now'.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 02 — VALIDATION
+PHASE 1 · DISCOVERY
+"Evidence has a hierarchy. Money > time > words. Collect accordingly."
+========================================================================
+
+Validation is not asking people if your idea is good — the answer is always a polite yes. Validation is engineering situations where people reveal the truth through what they sacrifice: money, time, introductions, or reputation. This chapter gives you the interview protocol that survives The Mom Test, the smoke-test toolkit for pre-product proof, and the kill criteria that save you two years of life. Your enemy here is confirmation bias — your brain will lie to you, so we build systems that don't.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[HIERARCHY] The signal hierarchy
+Rank every validation signal: (1) Money — preorders, deposits, LOIs; (2) Time — they give you their data, let you shadow them, or sit a second call; (3) Reputation — they intro you to their boss or peers; (4) Words — 'cool idea', 'I'd probably use that'. Words are noise; the first three are signal. Design experiments that force people up the ladder. A $50 deposit from 5 strangers beats 500 'likes'.
+
+[PROTOCOL] The 30-interview protocol
+Week 1–2: recruit 30 people in your target segment (DMs, communities, campus, LinkedIn — offer ₹200/$5 coffee cards if needed). Week 3–4: run 20-minute calls with a script of past-behavior questions only. Track patterns in a spreadsheet: frequency of the problem, current workaround, spend on workarounds, who owns the budget, trigger moment it last occurred. Stop when you can finish their sentences. You want their words, verbatim — later they become your landing-page copy.
+
+[METHOD] The Mom Test rules
+Ask about specifics in the past, not opinions about the future. Bad: 'Would you use an app that does X?' Good: 'Tell me about the last time you dealt with X. What did you do? What did it cost? Who else was involved?' Three rules: talk about their life instead of your idea; ask about specifics in the past instead of generics and opinions; listen more than you talk. Compliments are data pollution — deflect and return to the past.
+
+[EXPERIMENT] Smoke tests before product
+Build the thinnest artifact that triggers a sacrifice. Landing page + $200 ad spend → measure signup conversion (2–5% from cold traffic is interesting). Fake-door button inside an existing tool → clicks tell you demand exists. Preorder campaign → the purest signal. Concierge MVP → deliver the service manually for 3 customers before writing code. Wizard of Oz → looks like software, is secretly you at 2am. Each buys real signal for <2% of build cost.
+
+[B2B NOTE] Enterprise validation is different
+For B2B, get LOIs (letters of intent) and design partners: 3–5 companies that agree to pilot with defined success criteria. Probe procurement early: 'If this works, what happens next — who signs, what budget, what process, how long?' The polite enterprise 'circle back next quarter' is where young founders' runways go to die. Pilots unpaid >30 days are sympathy, not validation.
+
+[DISCIPLINE] Kill criteria — pre-commit to honesty
+Before you start, write what result would kill the idea: e.g., 'If fewer than 8 of 30 interviewees report the problem monthly + spend >$50/workarounds, we abandon.' Tape it to the wall. Without pre-committed criteria, every founder talks themselves into continuation. Great founders are serial killers of their own ideas; delusional ones get feature-rich products and zero customers.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] 30 customer interviews completed and logged verbatim in a spreadsheet
+[ ] Zero 'would you use' questions asked — past behavior only
+[ ] Documented current workaround + its cost for 70%+ of interviewees
+     ↳ No workaround = no problem, usually
+[ ] One smoke test shipped: landing page, fake door, preorder, or concierge
+[ ] Signal achieved: ≥3 sacrifices above 'words' (deposit, pilot, intro, data)
+[ ] Identified the trigger moment — what event makes this problem urgent
+[ ] Found the budget owner — whose wallet this actually comes out of
+[ ] Written kill criteria BEFORE reading experiment results
+[ ] Collected 10+ quotable sentences from users for future copy
+[ ] Spotted the top 3 objections — your pitch will need to answer these
+[ ] Repeated problem roughly weekly or worse in frequency
+     ↳ Annual pains rarely support startups
+[ ] Decision made: proceed, pivot the problem, or kill — in writing
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. Interviewing people who love you
+    Friends, family, and professors will fund your confirmation bias with ten thousand kind lies. Interview strangers, or at minimum people with no incentive to protect your feelings. The Mom Test rule: if it's a compliment, it didn't happen.
+
+02. Pitching during 'research'
+    The moment you describe your solution, the interview dies — they stop being a data source and become an audience. Sell later. Early calls exist to understand their world so precisely that the pitch writes itself.
+
+03. Survey delusion
+    A 500-response survey with 4.2/5 interest is worth less than five deposits. Surveys measure opinions about hypotheticals — the least predictive data in existence. Surveys are fine for segmenting; useless for validating demand.
+
+04. Mistaking 'interesting' for 'urgent'
+    Users will happily discuss interesting problems for free. Urgent ones they pay to fix this quarter. Urgency has a trigger event, a deadline, and a consequence. Locate all three or keep digging.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+The Mom Test — Rob Fitzpatrick's book on customer conversations; ask about the past, never pitch
+Smoke test — A low-cost experiment that simulates demand before the product exists
+Concierge MVP — Serving the first customers manually to learn the workflow before automating it
+Wizard of Oz — A product that appears automated but is secretly human-powered behind the curtain
+LOI — Letter of intent — a nonbinding document saying a company intends to buy if built
+Design partner — A customer who co-builds the early product in exchange for influence and discounts
+Confirmation bias — Your tendency to hear 'yes' in every answer; the founder's fatal disease
+Fake door — A button/feature that doesn't exist yet, measuring clicks as demand signal
+Problem-solution fit — Evidence that a real problem maps to a solution people will adopt
+Kill criteria — Pre-committed falsifiable thresholds for abandoning an idea
+
+────────────────────────────────────────────────────────────────────────
+» GATE 02 — Real sacrifices upstream of words: deposits, pilots, intros, or data access from ≥3 strangers.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 03 — MARKET & MOATS
+PHASE 1 · DISCOVERY
+"Size the ocean honestly, then find the cove you can own first."
+========================================================================
+
+Great founders attack great markets; the market's tide does most of the rowing. This chapter teaches you to size a market from the bottom up (the only credible way), decode 'why now' into investable tailwinds, map competitors without despair, and design moats early — because the best time to think about defensibility is before you have anything worth defending. You'll also pick your beachhead: the absurdly specific first niche you can dominate in 90 days.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[SIZING] TAM / SAM / SOM — sized bottom-up
+Top-down ('global dental market is $36B, we take 1%') is laughed out of every serious room. Bottom-up: count customers × annual spend of each. Example: 42,000 independent dental clinics in the country × $400/yr for your screening software = $16.8M SAM; the full 600,000-person global equivalent is your TAM story. Investors want the math to plausibly clear $100M annual revenue at maturity. $10M SAM with expansion paths to adjacent segments ('clinics → all practices → insurer networks') paints that path.
+
+[TIMING] 'Why now' — the most important slide nothing in MBA teaches
+For your idea, write the paragraph: 'This was impossible/worse before because ___, and is inevitable now because ___.' Anchor in specifics: a regulation dated, a technology's cost curve crossed, a behavior adoption threshold passed. Airbnb's why-now: recession forced spare-room income + social trust comfort via Facebook connect. Every great startup is surfing; your job is to name your wave with evidence, not vibes.
+
+[COMPETITION] Competitor mapping without despair
+Build a 2×2 or feature matrix of every alternative — including the true #1 competitor: doing nothing, and the #2: the spreadsheet. 'No competitors' is a red flag, not good news — it usually means no market. What you want: competitors proving demand while leaving a wedge open — too slow, too old, too enterprise, wrong price, wrong segment. Read their 1-star reviews; that's your product roadmap written by angry customers for free.
+
+[MOATS] The 7 Powers of defensibility
+Hamilton Helmer's taxonomy — pick your primary moat now: (1) Scale economies — unit costs drop with size; (2) Network economies — each new user raises value for others (marketplaces); (3) Counter-positioning — incumbents can't copy without hurting themselves (cheap digital insurance vs. agent-commissioned incumbents); (4) Switching costs — embedding into workflows and data; (5) Branding — earned over years; (6) Cornered resource — exclusive data, licenses, people; (7) Process power — Toyota-style accumulated operational excellence. Student startups usually start with #6/#7 → grow into #2/#4.
+
+[BEACHHEAD] Own a cove before the ocean
+Crossing the Chasm law: niche down until the niche looks embarrassing, then dominate it. Amazon: books. Facebook: Harvard. Stripe: developers at YC companies. Your beachhead should be findable in a week (a directory, a Slack group, an industry), small enough that 30 customers = meaningful share, and dense enough that users talk to each other — because in dense niches, word-of-mouth is physics, not hope.
+
+[POSITIONING] One line that wins the mind
+Fill in: 'For [specific customer] who [urgent need], [product] is a [category] that [key outcome], unlike [status quo], because [proof].' Category choice is strategy: create a new category when you can ('revenue intelligence'), borrow a known one when you can't ('Figma for construction docs'). If a stranger can't repeat your line back after one hearing, keep carving. Positioning is not taglines; it's deciding which mental shelf you get placed on.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] Bottom-up SAM computed: real customer count × realistic price
+[ ] TAM story clear: SAM is a believable foothold of a 10–100× larger ocean
+[ ] 'Why now' paragraph written with at least 2 dated, checkable facts
+[ ] Competitor matrix covering ≥6 alternatives including 'do nothing'
+[ ] Mined 1-star reviews of incumbents for the wedge feature
+[ ] Primary moat chosen from the 7 Powers — with the mechanism in one sentence
+[ ] Beachhead named and findable in under a week
+     ↳ If you can't list where your first 30 users live, go narrower
+[ ] Positioning one-liner tested on 5 strangers — repeated back ≥80% correctly
+[ ] Adjacent expansion path sketched: cove → lake → ocean
+[ ] Sanity check: would the winning competitor of 2035 be embarrassed you took this niche?
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. The 1% fallacy
+    'If we just get 1% of China's X market...' assumes demand distribution is homogeneous and free. Markets are won beachhead-by-beachhead. Replace fantasy percentages with names of specific first customers.
+
+02. Feature-comparison superiority
+    A matrix where you have 14 checks and the incumbent has 3 proves you misunderstand what buyers purchase: trust, integrations, and familiarity. Win on an axis incumbents structurally can't fight — price model, speed, a segment they ignore.
+
+03. TAM so big it's meaningless
+    'We're in the $8 trillion global healthcare market' tells investors you don't know who pays you. Big TAM impresses amateurs; crisp SAM impresses professionals.
+
+04. Moat fantasies without mechanisms
+    'We'll build network effects' is not a moat, it's a wish. Name the mechanism: two-sided marketplace where each new merchant lowers buyer wait times, verified by which density counter. If you can't describe the flywheel's physics, you don't have one yet.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+TAM / SAM / SOM — Total / serviceable / obtainable market — always sized bottom-up
+Why now — The dated, specific reason this startup could not win five years ago
+7 Powers — Helmer's moat taxonomy: scale, network, counter-positioning, switching, brand, cornered resource, process
+Beachhead — The narrow first market you fully dominate; the D-Day cove
+Wedge — The narrow opening in an incumbent's armor your product exploits
+Crossing the Chasm — Moore's law of adoption: chasm between early adopters and the mainstream
+Flywheel — A self-reinforcing loop where each turn makes the next cheaper or stronger
+Category design — Naming and owning a new problem category instead of fighting in an old one
+Counter-positioning — A moat where incumbents copying you would cannibalize themselves
+Bottom-up sizing — Market size = #customers × price, never % of an analyst's trillion
+
+────────────────────────────────────────────────────────────────────────
+» GATE 03 — Bottom-up market math, an evidence-based 'why now', a chosen moat, and a findable beachhead.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 04 — CO-FOUNDERS & EQUITY
+PHASE 2 · FOUNDATION
+"The highest-stakes marriage you'll sign in a coworking space."
+========================================================================
+
+The fastest way to kill a validated idea is the wrong team structure. YC's data is blunt: solo founders succeed far less often, and cofounder conflict is a top-3 cause of startup death. This chapter covers how to find and test a cofounder, split equity with math instead of vibes, set vesting so departures don't destroy everyone, and draft a founders' agreement before trust is ever tested. Do this early — agreements protect friendships, they don't threaten them.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[RANKING] The cofounder calculus
+Solo is possible but expensive: you carry every dark night and every dual skill gap alone. A great cofounder multiplies speed and survival odds; a bad one multiplies drama and dilution. Choose by evidence of working together, not friendship alone. The non-negotiable test: ship something hard together for 4–6 weeks (a hackathon, a prototype, a sales sprint) before merging futures. You're hiring for ten years — no offer letter after one coffee.
+
+[SKILLS] The skill triangle
+Early teams need three capabilities: Build (can ship product), Sell (can get customers and fundraise), and Orchestrate (ops, finance, hiring, chaos absorption). Two founders covering all three is standard; three founders need explicit role lanes to avoid collision. Classically: the CEO owns 'outward' (customers, money, story), the CTO owns 'inward' (product, engineering). The cardinal sin: overlapping authority with no tiebreaker — deadlock kills faster than bugs.
+
+[EQUITY] Splits & vesting, done right
+For equally-committed founders starting together, default to near-equal splits (50/50 or close) — startups die of unequal motivation more than unequal shares. Adjust meaningfully only for: prior work (6+ months sunk in), cash invested, or a joining-order gap. The absolute rule: everyone vests. Standard: 4 years, 1-year cliff, monthly thereafter. Vesting means 'earn your shares by staying' — a founder who leaves at month 8 keeps nothing; without it they could walk with 40% of the company forever. That is an existential landmine investors check for on day one.
+
+[DOCUMENT] The founders' agreement — sign before the honeymoon ends
+Contents: equity split + vesting schedule; role definitions and decision rights (who is CEO; what needs both signatures); IP assignment to the company (everything you build is the company's, not yours); departure & firing terms (good leaver/bad leaver); salary expectations once funded; non-compete exclusivity; dispute resolution (mediate first). This 4-page conversation has saved more startups than any feature ever built. Template sources exist; a startup lawyer cleans it up in an hour.
+
+[HUNTING] Where cofounders are actually found
+Ranked pools: (1) People you've shipped with — batchmates, hackathon teammates, open-source co-maintainers; (2) Adjacent communities — robotics club, college e-cell, Discord servers with real builders; (3) Structured matching — accelerator co-founder programs, YC's matching platform; (4) Cold outreach to operators you admire with a built demo, not a dream. Whatever the source: run the 4–6 week ship-test before paperwork.
+
+[EXPANSION] Advisors, ESOP, and early hiring
+Advisors trade 0.25–1% equity (vested over 2 years) during the pre-seed phase for real obligations written down: intros, monthly calls, domain review. Random '10% advisor' asks from professors are charitable gifts, not strategy — say no gracefully. Plan an ESOP pool now (10% is standard-ish at seed) because key hires will ask. First hires: pay in learning + ownership, not market salary; hire for slope over intercept.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] Shipped something real with your cofounder candidate for 4–6 weeks first
+[ ] Skill triangle covered: build / sell / orchestrate — gaps named honestly
+[ ] CEO named; tiebreaker mechanism agreed for deadlocks
+[ ] Equity split discussed out loud with numbers, not gestures
+[ ] Everyone vesting: 4-year, 1-year cliff, monthly after
+     ↳ No exceptions, including yourself
+[ ] IP assignment signed — code and ideas belong to the entity
+[ ] Founders' agreement drafted covering exit/firing scenarios
+[ ] Had The Conversation: what if one of us wants out in a year?
+[ ] ESOP pool concept understood (reserve ~10% by seed)
+[ ] Advisor offers only for written, reciprocal obligations
+[ ] Weekly founder sync scheduled — same time, every week, non-negotiable
+[ ] Decided what happens to equity and titles on departure — in writing
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. Handshake equity with no vesting
+    The classic campus tragedy: 33/33/33 on day one, one founder joins a bank at month 4, keeps a third of the company forever. Survivors build for three years while the tourist pays for vacations with their equity. Vesting or nothing.
+
+02. Choosing skills over character
+    A brilliant coder who vanishes under pressure is worse than a decent coder who shows up at 2am. Stress-test character in the trial period: small conflicts, missed deadlines, customer rejection. Skills compound; character rarely changes.
+
+03. Unequal splits for unequal commitment
+    If one founder is full-time and one 'helps on weekends', that is an employee, not a cofounder — price it that way or formalize full-time dates with equity adjustments. Ambiguity here festers exactly until money arrives, then explodes.
+
+04. Advisor dilution charity
+    Equity is the most expensive currency in the world to you. 5% to a friendly mentor = millions of future dollars for a few lunches. Standard advisor grants are 0.25–1%, vested, obligating mutual effort.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+Vesting — Equity earned over time; standard 4 years with a 1-year cliff
+Cliff — The one-year mark before which no shares vest; leavers before it keep nothing
+IP assignment — Legal transfer of all work output to the company entity
+ESOP — Employee stock option pool — reserved equity for hiring (usually 10–15% by Series A)
+Good/bad leaver — Terms deciding how a departing founder's equity is treated
+Reverse vesting — Founders technically own shares that the company can repurchase if they leave
+Decision rights — Predefined map of who decides what; prevents cofounder deadlock
+Slope over intercept — Hiring for learning rate instead of current credentials
+EIR — Entrepreneur-in-residence — funds host founders between companies
+Cofounder divorce — The acrimonious founder split; top-3 startup killer, preventable by paperwork
+
+────────────────────────────────────────────────────────────────────────
+» GATE 04 — Vested equity, signed IP assignment, named CEO, and a founders' agreement.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 05 — BUSINESS MODEL & UNIT ECONOMICS
+PHASE 2 · FOUNDATION
+"Who pays, how much, and why the math gets better as you grow."
+========================================================================
+
+A product with no model is a feature; a model with no economics is a donation. This chapter maps the proven business models (steal, don't invent), the pricing psychology that separates $9 hobby apps from $900 tools, and the unit economics vocabulary — CAC, LTV, payback, churn — that every investor meeting and internal decision will run on. You should be able to compute these for your startup on a coffee-stained napkin, at any hour, from memory.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[MENU] The model menu — pick a proven one
+SaaS (subscription per seat/usage — beloved for recurring revenue); Marketplace (take rate 5–25% of each transaction — hard to start, unbeatable at scale); Transaction fees (fintech's favorite); Freemium (free tier as marketing, 2–5% convert); Usage-based (API pricing, aligns cost with value); Razor-blade (cheap device, recurring consumable); Licensing (deep tech/research commercialization); Services-to-product (consult manually, automate gradually). Rule: innovate in product, not model. Novel models require educating the buyer — a tax a 3-person team can't pay.
+
+[PRICING] Pricing — the most underused lever
+Price on value delivered, not cost incurred: if your tool saves 10 hours of $50/hr labor monthly, $149/mo is a bargain and $15/mo is a branding problem ('if it's cheap it can't be serious'). Psychology that works: three tiers (most choose the middle), anchor the enterprise tier high, annual-billing discounts (2 months free), and price increases on grandfathered cohorts only. Underpricing is a top-5 killer — it destroys your testing surface and your credibility simultaneously. Charge from week one; 'free forever' experiments teach you nothing about willingness to pay.
+
+[VOCAB] CAC & ARPU — the two atoms
+CAC (customer acquisition cost) = total sales+marketing spend ÷ new customers acquired. Include founder time at a nominal salary or you'll lie to yourself. ARPU (average revenue per user/account, monthly) = MRR ÷ customers. Track per channel: organic CAC ≈ time cost; paid CAC is cash. The hobbyist tracks downloads; the operator knows that Instagram ads bring customers at $41 while referrals bring them at $6 — and behaves accordingly.
+
+[VOCAB] LTV, churn and the golden ratios
+LTV (lifetime value) ≈ ARPU × gross margin % ÷ monthly churn. At 5% monthly churn, average customer life is 20 months. The golden ratio: LTV:CAC ≥ 3 and CAC payback ≤ 12 months means a healthy, scalable machine; <12-month payback at seed is strong. Segment everything: blended churn hides that your enterprise customers stay 4 years and your free converters churn in week 2 — which tells you exactly where the model actually works.
+
+[REVENUE] Revenue quality hierarchy
+Investigators rank your revenue: (1) Annual prepaid contracts (cash + commitment), (2) recurring monthly subscriptions, (3) usage revenue (grows with customers, volatile), (4) one-time fees (services, setup). A startup with $5K MRR beats one with $50K in one-offs at due-diligence time. Beware services doing costumes: wearing consulting as 'revenue' to fake product traction is the oldest due-diligence fail in the book.
+
+[EXPERIMENTS] Monetization experiment menu
+Run cheap pricing probes before you have 100 users: (a) quote a price in sales calls before building; refusals are data; (b) offer two prices to different cohorts and compare conversion; (c) pre-sell an annual plan at 40% off to power users for cash flow; (d) add a fake 'Pro' checkout page measuring purchase-intent clicks. Pricing is the artifact you'll iterate most and fear most — touching it monthly is senior behavior; freezing it for a year is amateur.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] Picked a proven model from the menu — no model innovation yet
+[ ] Price anchored to value delivered (hours saved, revenue made), not costs
+[ ] Three-tier pricing sketched with a deliberate middle-tier target
+[ ] CAC computed per channel including founder-time cost
+[ ] ARPU and churn defined and measurable today, even with 3 users
+[ ] LTV:CAC math done on paper — path to ≥3 visible
+[ ] CAC payback estimate ≤ 18 months at seed, improving with scale
+[ ] Churn tracked per cohort from the first week of paying users
+[ ] One monetization experiment run before product was 'done'
+[ ] Know your revenue quality target: recurring > usage > one-time
+[ ] Decided who the economic buyer is vs. the user — they differ in B2B
+[ ] Set a calendar reminder: revisit pricing every 90 days
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. Free forever as a strategy
+    Free is a tactic to buy data or distribution, never a model (unless you are deliberately building an ads business, in which case, see the next landmine). Customers who never paid will never tell you the truth about value. Charge early; discount generously; refund happily — but charge.
+
+02. Ads-first dreams for niche tools
+    Advertising math is brutal: you need millions of engaged eyeballs to fund salaries. B2B and niche consumer tools should charge their users. If your answer to 'who pays' is 'advertisers someday', you don't have a business model, you have a hope placeholder.
+
+03. Blended metrics that bury the truth
+    Averages lie across mixed segments. '30% churn' might be '5% enterprise, 60% self-serve' — telling you exactly what to build. Slice cohorts by channel, plan, and size before drawing any conclusion.
+
+04. Vanity revenue
+    One giant 'client' doing custom services inflates the revenue line and crushes roadmap, margins, and valuation quality. Investors apply services-revenue haircuts; your team pays the longer price in focus lost.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+MRR / ARR — Monthly / annual recurring revenue — the heartbeat metric of subscription businesses
+CAC — Customer acquisition cost — fully-loaded sales+marketing ÷ new customers
+LTV — Lifetime value ≈ ARPU × gross margin ÷ churn rate
+Churn — Share of customers or revenue lost per period; logo churn vs. revenue churn differ
+Take rate — The % of each marketplace transaction you capture
+Gross margin — Revenue minus cost-to-serve; software targets 70–85%
+Payback period — Months of gross-margin revenue needed to recover CAC
+NDR — Net dollar retention — >100% means existing customers grow faster than they leave
+Freemium vs. trial — Free-forever tier vs. time-boxed full access; trials learn faster
+Economic buyer — The person whose budget pays — often not the daily user
+
+────────────────────────────────────────────────────────────────────────
+» GATE 05 — A proven model chosen, value-based pricing drafted, and unit economics you can recite cold.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 06 — MVP & BUILDING
+PHASE 3 · BUILD & LAUNCH
+"Minimum effort, maximum learning. Ship the embarrassing version."
+========================================================================
+
+The MVP exists to answer one question: does the loop run — do strangers reach the 'aha' moment and return? Everything beyond that is vanity engineering that burns your scarcest resource. This chapter covers the MVP spectrum from pure service to real code, the scope-cutting discipline that gets you live in 6 weeks instead of 6 months, shipping cadence, feedback infrastructure, and the pivot/persevere signals that tell you when the data demands a turn.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[SPECTRUM] The MVP spectrum — pick your altitude
+From cheapest to costliest: Concierge (purely manual service — you ARE the algorithm); Wizard of Oz (a façade of software powered by you at midnight); Landing + waitlist (describes the product, measures desire); No-code composite (Retool/Airtable/Notion/Zapier gluing the workflow); Single-feature app (does one job stupidly well). The correct choice for most first-time founders: start at concierge, earn the right to code. Every line of code written before 10 concierge deliveries is a bet without data.
+
+[SCOPE] Scope-casing: cut until it hurts
+Write the core loop in one sentence: 'User does X → gets Y value → comes back for Z.' Map the loop to screens, then cut every screen that doesn't serve it. Auth? Use magic links. Settings page? There is one setting. Onboarding emails? Send them yourself from Gmail. Plan as if it ships in 4–6 weeks: if the plan says 4 months, halve the scope, don't extend the timeline. Teams who cut scope keep morale; teams who slip dates lose it.
+
+[TECH] Boring tech, fast deploys
+Choose the stack you can deploy in a day (e.g., Next.js + Postgres + a hosted backend), not the stack of your engineering fantasies. Resist: microservices, Kubernetes, blockchain-anything, and premature AI-training. Buy everything (auth, payments, emails), build only the wedge. Your MVP's engineering KPI is minutes from commit to production. Elegance is a post-PMF luxury; Instagram launched with a Django monolith, WhatsApp served billions of messages on Erlang few had heard of.
+
+[CADENCE] The shipping cadence + alpha/beta discipline
+Internal alpha week: team and 5 forgiving friends — hunt crashes with a bug bash. Closed beta weeks 2–4: 20–50 interview-sourced users onboarded personally on calls — you watch them use it live (screen-share is the greatest UX tool ever built). Public open sprint after. Ship weekly at minimum; every cohort of users should touch an actually-improved product. No roadmap beyond the next two sprints — evidence rewrites priorities weekly at this stage.
+
+[FEEDBACK] Feedback infrastructure from user #1
+Instrument the core loop events (signup, key action, return) from day one — analytics are your eyes. Then build the habit loop: every user gets a personal check-in at day 3 and day 10, one question each ('what almost stopped you from coming back?'). Weekly synthesis: tag feedback into bugs / confusions / requests / raves, and ship against the top tag. A public changelog compounds trust. Beware the loudest-customer tax: one loud corp user ≠ the market.
+
+[JUDGMENT] Pivot, persevere, or patch
+The honest review, every 4 weeks: (1) Love test — do any 10 users say they'd be 'very disappointed' without it (Sean Ellis's 40% PMF threshold needs scale, but direction matters now); (2) Retention shape — flat curve is gold, decaying cliff is danger; (3) Growth — referrals happening unforced? Patch = fix friction; persevere = the loop runs but the funnel leaks; pivot = change the customer, the problem framing, or the delivery model (Zoom pivoted from enterprise-only to bottom-up; Slack pivoted from a game's chat tool). A pivot is a chess move with saved pieces — not a funeral.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] MVP altitude chosen: concierge or Wizard of Oz before any code
+     ↳ Earn the right to build
+[ ] Core loop written in one sentence — every feature maps to it
+[ ] Build plan capped at 4–6 weeks; scope cut, not deadlines
+[ ] Stack chosen for deploy speed: boring, hosted, bought-not-built internals
+[ ] One 'wow' moment engineered into first 10 minutes of use
+[ ] Core events instrumented: signup → key action → return
+[ ] Onboarded every beta user personally with a live screen-share
+[ ] Weekly ship rhythm established and held for 4+ weeks
+[ ] Public changelog started, however embarrassing version 0.1 was
+[ ] Day-3 and day-10 check-in questions scheduled for every user
+[ ] 4-weekly pivot/persevere review in the calendar
+[ ] Tech-debt log — every shortcut noted for post-PMF paydown
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. The 9-month 'almost ready' MVP
+    Long incubation usually hides fear of rejection, not engineering necessity. If you're embarrassed by version 1, you're on schedule (Reid Hoffman: if you're not embarrassed, you launched too late). Embarrassment is the receipt that you spent time on learning, not hiding.
+
+02. Feature-request obedience
+    Users ask for features; they mean outcomes. Build for the pattern across 10 users, using the 5-why technique to find the job underneath each request. Obedient teams drown in the feature tarpit — max complexity, defensible nothing.
+
+03. Scaling before PMF
+    Hiring sales, buying ads, adding enterprise 'hardening' before retention flattens is pouring fuel into a car with no engine. The sequence exists because each stage's evidence gates the next stage's spending. Premature scaling is the #1 killer in the Startup Genome data.
+
+04. Rewrites of convenience
+    'The codebase is messy, let's rebuild properly' at month 5 is nearly always a morale decision masquerading as an engineering one. Refactor around the burning core; total rewrites burn learning and time simultaneously.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+MVP — Minimum viable product — the smallest artifact that generates maximum validated learning
+Concierge MVP — Manually serving customers before automation; you are the backend
+Core loop — Action → value → return — the atomic cycle of your product
+Aha moment — The instant a user first feels the value (Facebook: 7 friends in 10 days)
+PMF survey — Sean Ellis's 'very disappointed' test; 40%+ is the classic threshold
+Fake it till you scale it — Manual ops dressed as product until demand justifies automation
+Technical debt — Shortcuts borrowed against future velocity; log it, repay it deliberately
+Changelog — Public record of shipped improvements; compounds user trust
+Feature tarpit — The swamp where teams add features request-by-request into unusable complexity
+Premature scaling — Spending on growth machinery before retention proves the engine exists
+
+────────────────────────────────────────────────────────────────────────
+» GATE 06 — A shipped loop, 20+ real users onboarded personally, and returning behavior visible.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 07 — LAUNCH & DISTRIBUTION
+PHASE 3 · BUILD & LAUNCH
+"Great products with no distribution get burials, not funding."
+========================================================================
+
+The whispered secret of the startup game: distribution is half the company. This chapter covers the disciplined launch (waitlists, founder-led sales, launch-day mechanics), the channels that actually compound (content, community, SEO, partnerships, referrals), and the channel-market-fit hunt that ends the spray-and-pray era. Manual, unscalable moves aren't a phase to rush through — they're the training data for everything you'll later automate.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[MANUAL] Do things that don't scale
+Paul Graham's most actionable essay: Stripe founders installed payment code on laptops in person ('Collison installation'); Airbnb flew to NYC weekly to photograph hosts' apartments; DoorDash delivered the food themselves. Your first 100 users should feel hand-delivered. Manual service buys three things money can't: exact workflow knowledge, word-of-mouth in dense niches, and stories you'll pitch with for years. Automation earned by hand > automation built on guesses.
+
+[CHANNEL] Channel-market fit and the 3-channel rule
+Channels have physics: SEO compounds for years but pays nothing for 6 months; paid ads teach fast but scale linearly with spend; communities nurture trust slowly but convert at 10×; outbound delivers this week but dies when you stop dialing. The rule: test 3 channels cheaply in parallel for 4 weeks, pick ONE winner, then double down until it saturates. Every-week-is-a-new-channel behavior is panic, not experimentation. Match channel to buyer: developers live in docs and GitHub; SMB owners live in WhatsApp and Facebook groups; enterprises live in LinkedIn and referrals.
+
+[OUTREACH] Cold outreach that actually converts
+Founder-led sales still beats everything in the first $1M. Formula: 3-sentence maximum — (1) specific observation about them ('saw your clinic post about no-show rates'), (2) the outcome you've delivered for someone like them ('we cut no-shows 31% at a 4-chair practice in 6 weeks'), (3) a low-friction ask ('worth 12 minutes this week?'). One follow-up at day 3, one at day 7, then stop. Expected reality check: 20–30% replies in tight niches, 1–3% in sprayed ones. Volume is a skill tax; start at 10/day, not 1,000 canned blasts.
+
+[LAUNCH DAY] The launch-day playbook
+Treat launches as recurring events, not once-in-history cathedrals. Product Hunt mechanics: launch Tuesday–Thursday 12:01am PT, align 50 genuine supporters to comment/discuss (not blind votes — the algos discount them), founder answers every comment personally, hunter/relevant communities pre-warmed a week before. Beyond PH: Hacker News 'Show HN', niche subreddits and Slack/Discord communities, an X/LinkedIn build-in-public thread, and one founder-letter email to everyone who ever talked to you. Marry every launch with a no-arguation waitlist → convert 48 hours later.
+
+[COMPOUND] Owned audiences & the build-in-public engine
+Rented reach (algorithms) decays; owned audiences (email lists, community members) compound. Run the flywheel: ship weekly → write the build-log (metrics, failures, decisions) → distribute to newsletter/LinkedIn/Discord → readers become users, users become stories, stories become content. Founders underestimate narrative consistency: one topic, one honest voice, 200 weeks. The companies you admire got good at being interesting in public long before they were good at ads.
+
+[LOOPS] Growth loops > funnels
+Funnels leak and need refilling (ads stop, traffic stops); loops reinvest their own output: a user invites teammates (Slack's loop), a transaction creates a story that attracts buyers (Etsy), each user's data improves the product for all (Waze). Sketch your primary loop: what does every satisfied user naturally produce that recruits the next user? Virality isn't luck — coefficient K = invites sent × conversion per invite; K>1 is compound growth, K≈0.3 still slashes CAC meaningfully. Architect at least one loop into the product itself this quarter.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] First 10 customers acquired by hand — no ads, no shortcuts
+[ ] One B2B/C founder-led outreach template under 3 sentences, tested on 50 targets
+[ ] 3 channels tested in parallel for 4 weeks with a tracking sheet
+[ ] One channel doubled-down; the others consciously paused
+[ ] Waitlist live with a reason-to-share mechanism (position jumps for referrals)
+[ ] Launch calendar: PH/HN/community/letter mapped across one month
+[ ] Email capture lives on every surface — owned audience growing weekly
+[ ] Build-in-public cadence: one honest post per week, metrics included
+[ ] Primary growth loop sketched with its physics written down
+[ ] Referral ask embedded at the user's moment of delight, not on the pricing page
+[ ] Reply-to-every-message policy for the first 1,000 users
+[ ] CAC per channel tracked — you can name your cheapest channel today
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. Advertising before messaging
+    Paid ads amplify your message; if the message is unproven, you're paying to A/B test at casino prices. Earn your copy from 30 interviews and 50 cold emails' worth of reply data first — the words that convert in DMs become the ads that convert at scale.
+
+02. Launching once
+    Treating launch as a single-day event makes one bad Tuesday fatal. Serial launchers win: v0.1 to the community list, v0.3 to Product Hunt, v0.6 press, every 6–8 weeks. Each launch is marketing inventory purchased with product progress.
+
+03. Ten shallow channels instead of one deep one
+    The 'we're on TikTok, Instagram, X, LinkedIn, SEO, ads' startup is on none of them. Depth beats breadth: one channel operated by someone who knows its physics will out-pull ten channels operated by tourists.
+
+04. Growing what leaks — retention invisible
+    Pouring acquisition through a hole-filled bucket converts marketing spend into churn data. If users don't stay through month one, stop acquisition hunts and fix the bucket. Growth marketing on top of a flat retention curve is a machine; on top of a cliff it's an expensive illusion.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+Collison installation — Stripe's trick of installing the product on customers' laptops in person
+Channel-market fit — A repeatable, profitable match between a distribution channel and your buyer
+Founder-led sales — The CEO running sales personally to the first ~$1M ARR
+Build in public — Openly sharing metrics, decisions and failures as a marketing engine
+K-factor — Viral coefficient — invites per user × conversion; >1 is exponential
+Growth loop — A self-refilling acquisition cycle fueled by the product's own usage
+Owned vs. rented reach — Audiences you control (email) vs. algorithms you borrow (feeds)
+LTV payback by channel — The per-channel match of value to acquisition cost
+Sales-led vs. product-led — Humans close deals vs. the product itself converts users (PLG)
+Wedge feature — The single viral/signature feature that drags the whole product behind it
+
+────────────────────────────────────────────────────────────────────────
+» GATE 07 — 10+ hand-won customers, one working channel, and a growth loop in motion.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 08 — LEGAL & FORMATION
+PHASE 3 · BUILD & LAUNCH
+"Boring paperwork is the load-bearing wall of every big exit."
+========================================================================
+
+Handle legal hygiene early and it costs you a weekend; handle it late and it costs you the company. This chapter covers entity selection (with the investor-expectation reality), incorporation steps, cap-table hygiene, IP protection that actually matters, and the bookkeeping baseline a startup needs before its first serious meeting. It is deliberately practical: what to do at each stage, what it costs, and what can safely wait. (Not legal advice — but the map you'll bring to your lawyer.)
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[ENTITY] Choosing the entity — the investor-expectation reality
+Venture capital has a preferred wrapper, and ignoring it adds months to a raise. US-bound: Delaware C-Corp is the default (familiar law, SAFE-ready, QSBS tax benefits for investors). India: Private Limited (Pvt Ltd) is the vc-friendly vehicle; LLPs and sole proprietorships repel institutional equity. UK: Ltd works with SEIS/EIS advantages. An LLC/GmbH/partnership serves cash-flow businesses well, not equity startups. If your path includes international VC, holding-company structures (e.g., Delaware parent + local subsidiary — 'flip') enter at Seed infrastructure phase.
+
+[SETUP] Incorporation sequence & costs
+Order of operations, US: incorporate C-Corp (registered agent, ~$300–1,500 total with self-service or a Stripe Atlas-style package), get EIN, open a business bank account (mercury-style), issue founder shares via 83(b)-adjacent purchase agreements (file 83(b) within 30 days of grant — an unfiled 83(b) is a classic existential tax bug), adopt bylaws, document the cap table. India: DIN/DSC → name approval → SPICe+ filing (Pvt Ltd ~₹10–30K with professional help), PAN/TAN, current account, then a Shops & Establishment + GST registration when thresholds hit. Either way: founders BUY their shares for a nominal price with vesting attached — paper it on day one.
+
+[CAP TABLE] Cap-table hygiene from day zero
+Maintain one source of truth (a spreadsheet works until Seed; carta-style tools after). Every share ever promised is on it: founders, advisor grants, ESOP pool, SAFEs/notes (with caps, modeling conversion). Cardinal rules: no undocumented equity conversations, no equity for services without written vesting, never promise percentages without knowing fully-diluted math. Investors reconstruct your cap table in diligence — discrepancies found there are trust fires that burn the raise.
+
+[IP] Intellectual property that matters
+The one IP rule that saves companies: every contributor — founders, contractors, your roommate who helped with the logo — signs a PIIA/contractor agreement assigning work to the company. Without it, diligence treats the code as partially owned by ghosts. Trademarks: file in your primary market once the name survives 6 months of usage (cheap insurance against forced rebrands). Patents: mostly months-long theater for software startups unless deep-tech hardware/biotech — patents cost $10–30K per jurisdiction and years; make that call with counsel, not enthusiasm. Code side: audit your open-source licenses (GPL contamination scares acquirers).
+
+[COMPLIANCE] The ops floor: money hygiene & basic compliance
+Floor requirements that cost little and unlock everything: separate business bank account (never run the startup through a personal wallet — co-mingling contaminates liability shields, taxes, and diligence); cloud bookkeeping (QuickBooks/Zoho/AI-native tools) reviewed monthly; a tax calendar (corporate tax estimates, payroll taxes, GST/sales-tax where threshold applies); contracts library (NDA, MSA/SOW, employment offer + IP assignment, pilot agreement); basic data hygiene (privacy policy once you collect data, DPA for B2B customers on request). Payroll: pay founders something once funded — under-table cash is the tax audit origin story.
+
+[STAGING] What to fix now vs. what can wait
+Now (cheap): entity + founder share agreements + IP assignment + bank + bookkeeping. Next (when revenue/funding lands): employment classifications (misclassified 'contractors' doing employee work is a real legal exposure), insurance (D&O when you have a board, cyber when you hold data), data protection posture (GDPR only if you touch EU users; SOC2 when enterprise customers start demanding it, often post-Seed). Later (with counsel): international flips, patent strategy, complex licensing. The pattern: legal spend tracks risk surface, not anxiety.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] Entity chosen to match funding path (C-Corp / Pvt Ltd — not convenience)
+[ ] Incorporation filed; EIN/PAN and bank account live
+[ ] Founder shares purchased on paper with vesting attached
+[ ] 83(b) filed if applicable — calendar-marked within the 30-day window
+[ ] Cap table single-source-of-truth exists and is current
+[ ] Every contributor signed IP assignment — founders included
+[ ] Bookkeeping set up with monthly close ritual
+[ ] Contracts library: NDA, MSA/SOW, offer letter + PIIA, pilot template
+[ ] Personal and business money fully separated — zero co-mingling
+[ ] Tax calendar with all filing dates set as recurring reminders
+[ ] Trademark plan for the name once it survives 6 months
+[ ] One startup-competent lawyer identified before you urgently need one
+     ↳ Ask funded founders for their recommendation
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. The wrong entity for the funding thesis
+    Incorporating an LLC or proprietorship because it was fast, then discovering VCs can't/won't invest, forces a painful conversion mid-raise — exactly when momentum matters. Match the vehicle to the capital destiny on day one.
+
+02. Handshakes instead of paper
+    Un-documented advisor grants, verbal equity, 'we'll paper it later' splits between founders. Diligence is an x-ray — all of it is visible, none of it forgotten. Ghosts on the cap table have killed real acquisitions.
+
+03. Contractor misclassification out of thrift
+    Calling full-time controlled-schedule workers 'contractors' to skip payroll complexity is a small saving and a large liability — back-taxes and penalties land on the company personally at the worst possible time.
+
+04. Legalization theater
+    The mirror mistake: spending $15K on patents, trademarks in 9 countries, and bespoke terms before a single customer. Legal spend should track risk and funding stage, not founder anxiety. Entity+IP+hygiene first; theater never.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+C-Corp — Delaware C-Corporation — the default investment vehicle of US venture
+Pvt Ltd — Private Limited Company — India's VC-compatible entity
+83(b) election — US tax filing (30-day window) that fixes founder-share taxes at grant-time value
+PIIA — Proprietary Information & Invention Assignment — the contractor's IP-transfer contract
+Fully diluted — Share count including options, pools, SAFEs — the only honest denominator
+QSBS — Qualified Small Business Stock — US tax break making startup equity more investable
+Flip — Restructuring into a foreign holding company (e.g., Delaware parent) for global VC
+D&O insurance — Directors & Officers coverage — required once you have an institutional board
+SOC 2 — Security audit standard enterprise customers demand before signing
+MSA / SOW — Master Service Agreement + Statement of Work — the two halves of B2B contracts
+
+────────────────────────────────────────────────────────────────────────
+» GATE 08 — Entity live, founder shares papered & vesting, IP assigned, money separated, books clean.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 09 — PITCHING & STORYTELLING
+PHASE 4 · FUEL & SCALE
+"You're not explaining a product — you're transferring a conviction."
+========================================================================
+
+A pitch is a compression algorithm: months of evidence and conviction delivered in minutes, designed to earn the next meeting — never to 'close' in the room. This chapter gives you the 12-slide deck anatomy (with the order that actually works), the elevator-pitch formula, demo discipline, the scoring rubric judges and investors secretly use, the 20 hardest Q&A questions with response frameworks, and the map of university-to-demo-day events worth your time.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[NARRATIVE] The narrative arc — lead with the wound
+Structure: open with the problem told through one specific human ('Priya's clinic loses ₹4L a year to no-shows') → the market's scale of that pain → your solution and the magic moment → evidence it works → why you'll win → why now → the team built for exactly this → the ask. The cardinal rule: the problem slide burns 30 seconds, not 30 seconds from the end when attention is gone. Great pitches feel inevitable in hindsight — each slide answers the question the previous one raised, the whole deck complete in 3 minutes flat.
+
+[DECK] The 12-slide anatomy
+1) Title + one-line positioning. 2) Problem — one human, quantified pain, existing bad workaround. 3) Solution — the product shown, not described (screenshot/demo frame). 4) Why now — the dated shift. 5) Market — bottom-up TAM/SAM math. 6) Product/magic — the loop in 15 seconds. 7) Traction — one honest growth metric with slope; pilots speak loudly here. 8) Business model — who pays, how much, why it's a bargain. 9) Competition/moat — the wedge and the 7-Powers reasoning. 10) Go-to-market — the channel you own + expansion logic. 11) Team — founder-market fit above bios. 12) The ask — amount, runway it buys, milestones it funds.
+
+[TRACTION] Traction slide supremacy
+In every rubric that matters, evidence outranks adjectives. Rank of evidence: revenue with growth slope > retention curve > usage growth > signed pilots/LOIs > waitlist numbers > interview counts > design mockups. Show ONE metric with a slope and honest labels. Pre-product university decks: your 'traction' is validation evidence — '31 clinics interviewed; 9 signed pilot LOIs; 3 waiting to pay'. That's a real slide, and it beats a fake revenue chart by light-years.
+
+[DELIVERY] Delivery, demo and the 60-second version
+Elevator formula: 'For [customer], who [pain], we built [product], a [category] that [outcome] — unlike [status quo], [proof].' 60 seconds, zero jargon, repeatable verbatim. Demo rules: live demo beats slides; pre-recorded video beats WiFi prayers; show one user doing one job to the 'whoa', then stop (demos die of second features). Prepare three pitch altitudes: 15-second hook, 3-minute deck run, 20-minute deep dive. The unscalable art of pitching is calibrated adaptation — judges get the crisp version, technical partners get the deep mechanics.
+
+[RUBRIC] The invisible scoring rubric
+What the room actually scores (weights vary): Team — insight and velocity, do they know something others don't (25–35%); Market — believable $100M+ path (20–25%); Evidence/Traction — slope over absolute size (20–25%); Clarity — could they repeat what you do 5 minutes later (10–15%); Story — inevitability and founder energy is the remainder. Rookie decks score zero on clarity by feature-listing. University judges additionally weight coachability and novelty; real investors weight founder-market fit and why-now. Pitch accordingly.
+
+[EVENTS] The pitch-event map — campus to Demo Day
+The ladder: intra-university business plan / I2P competitions and e-cell events (practice with stakes) → inter-university and national competitions (Hult Prize, Red Bull Basement, university startup world cups) → hackathons (proof-of-build culture; recruiting grounds) → incubator/accelerator demo days (YC, Techstars, Antler, Surge; India: 100x.VC-style cohorts, campus angel networks) → corporate innovation challenges (paid pilots as prizes). Strategy: compete to iterate the deck under judgment pressure, not for prize money. Every competition produces three artifacts: refined Q&A muscle, judge relationships that become investor intros, and a deadline that forces progress.
+
+[Q&A] The 20 hardest questions (framework, not scripts)
+Recurring hits: 'What stops Google/an incumbent?' (counter-positioning + speed of focus); 'Why won't this be a feature, not a company?' (platform depth + data loop); 'How do you get the first 100 customers?' (named channel + manual plan); 'Unit economics at scale?' (math on a napkin, margins improving); 'What if you're wrong about X?' (pre-thought experiments + kill criteria); 'Why you?' (founder-market fit, scars or unfair access); 'How much are you raising and what does it buy?' (runway → milestone chain); 'What keeps you up at night?' (honest named risk + mitigation in progress). Rule: answer in 20 seconds, offer the depth after. Never bluff a number — 'I'll send that model tonight' preserves the raise.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] 12-slide deck built; runs clean at 3 minutes out loud
+     ↳ Record yourself; watch it silently — does it still make sense?
+[ ] Problem slide leads with one named human's quantified pain
+[ ] Traction slide shows one honest slope with labeled axes
+[ ] Elevator version memorized to the word — 60 seconds, strangers repeat it back
+[ ] Demo plan: live → video fallback → screenshots, in that order
+[ ] Three pitch altitudes rehearsed: 15s / 3min / 20min
+[ ] Q&A doc with the 20 hardest questions answered honestly
+[ ] One competition or demo day per month entered for 3 months
+[ ] Pitch tested on 3 founders who've raised — brutal feedback logged
+[ ] The ask quantified: amount, runway, milestone chain
+[ ] Data-room lite ready: cap table, financials model, LOIs, deck
+[ ] Fonts, contrast, and motion-safe fallbacks checked on the venue's laptop
+     ↳ Fonts break on judge laptops; export PDF too
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. Feature lists instead of a narrative
+    Twelve capabilities in twelve bullets reads as zero vision. The room invests in an outcome story: problem → wedge → compounding machine. Features support the story; they are never the story itself.
+
+02. The 40-slide encyclopedia
+    More slides signals anxiety, not thoroughness. A crisp 12 with an appendix for appendices' questions beats a padded 40. Judges forgive missing details; they do not forgive wasted minutes.
+
+03. Bluffing under Q&A
+    One invented statistic detected withers both the current pitch and your reputation in that investor network — ecosystems gossip. 'I don't know; I'll send it tonight' is a move professionals use weekly.
+
+04. Hiding weakness instead of pricing it
+    Holes unaddressed get scored as holes unseen. Name your biggest risk and detail the mitigation: 'Churn risk at month 3 is our knife-fight; here's the activation experiment running now.' It converts a landmine into evidence of judgment.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+Elevator pitch — The 60-second, jargon-free, repeatable compression of the business
+Problem-solution-vernacular — The mandatory order: wound first, medicine second
+Traction — Evidence of demand: revenue, retention, usage — in that rank order
+Demo Day — The accelerator's investor-pitching graduation ritual
+One-liner — The category-plus-outcome sentence strangers can repeat; Sequoia's test
+Appendix — Backup slides for Q&A — detail parked, not deleted
+Coachability signal — The judge's read on whether you metabolize feedback
+The ask — The closing slide: how much, runway bought, milestones funded
+Founder energy — The non-verbal credibility — preparation, tempo, and eye-level conviction
+Warm intro — A trusted mutual connection transmitting you into an investor's attention
+
+────────────────────────────────────────────────────────────────────────
+» GATE 09 — A 3-minute inevitability pitch, bulletproof Q&A doc, and one real stage survived.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 10 — FUNDING MECHANICS
+PHASE 4 · FUEL & SCALE
+"Equity is rocket fuel. Learn the instruments before you sell the sky."
+========================================================================
+
+Fundraising is a sales process with a special product: a percentage of your future. This chapter decodes the full capital ladder from bootstrapping to Series A+, the legal instruments (SAFE, convertible note, priced round) that transfer risk and ownership, term-sheets clause by clause, the operational raise playbook (target list, warm intros, data room, closing), and the non-dilutive paths students forget. Master the math of dilution before you sign anything — terms matter more than headlines.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[DECISION] Bootstrap or raise — decide with math, not mood
+Venture money exists to buy speed in winner-take-most markets. Raise when: the market punishes slow movers, capital buys defensible scale (network effects, data accumulation, regulatory moats), and a 10x outcome plausibly returns a fund. Bootstrap when: the market rewards patience, margins fund growth, or the TAM tops out below venture thresholds. Hybrid paths exist: consult-to-product, grant-funded deep tech, revenue-first-then-raise-from-strength. The irreversible fact: raised money comes with a timer (18–24 months to the next milestone proof) and a shareholder with portfolio math — 9 of their bets may die; yours must not.
+
+[LADDER] The funding ladder — rounds and milestones
+Runs: Bootstrapping/FFF (friends-family-fools, $5–50K) → Pre-Seed ($100K–$1M, on SAFEs; buys team + MVP + first customers) → Seed ($1–4M; buys PMF signals, repeatable channel, ~12 people) → Series A ($8–20M; the 'repeatable machine' round: proven retention, scaling GTM; priced equity with a board) → B/C+ (pure scale capital on unit economics). University tracks: campus angel networks, university seed funds, incubator checks ($5–25K grants/equity-lite). Each round exists to retire a named risk: technical risk → market risk → execution risk → scale risk. Raise against the risk you're about to kill.
+
+[INSTRUMENTS] SAFE, convertible note, priced — the three machines
+SAFE (Simple Agreement for Future Equity — no debt, converts at the next priced round; post-money vs pre-money matters hugely for dilution math — read the cap): standard for pre-seed/seed speed. Convertible note: debt that converts, with interest + maturity date + cap/discount — slightly more friction, similar outcome. Priced round: negotiated valuation, new share class, board seat, investor rights — heavier, sets a marker for everyone. Key terms: Valuation cap (max conversion price — your friend when you grow fast), Discount (conversion at 10–25% off the next round's price), MFN (most-favored-nation — nation's later-better-terms flow backward). Never sign a full-ratchet anti-dilution clause; weighted-average is the standard.
+
+[MATH] Valuation & dilution — run the numbers
+Valuation at early stages is negotiated narrative + comparables, not DCF math — recent similar-stage deals in your geography anchor it. Sanit dilution math: $1M on $4M post-money SAFE = 25% gone. Then Seed 20%, A 20% → founders hold ~48% post-A before ESOP refreshes. Rule of thumb: sell ≤10–20% per round; keep founders >50% through A if possible; model every SAFE stack's conversion BEFORE signing ('SAFE stacking' unknowingly at multiple caps is a famous Seed crater). Decide raise size backward: runway target (18–24 mo) × net burn + 20% buffer = the ask.
+
+[TERM SHEET] Term-sheet clause-by-clause
+Economics: pre-money valuation, pool shuffle (ESOP carve-outs pre-money dilute founders — negotiate its size), liquidation preference (insist on 1x non-participating; participating 'double-dip' preferences are investor-friendly weapons), anti-dilution (weighted-average OK, full-ratchet never). Control: board composition (2F/1I + independent at A is founder-tolerable), protective provisions (veto list — negotiate scope carefully), pro-rata rights (normal), drag-along thresholds, information rights, vesting acceleration triggers on acquisition. Valuation is the headline; control terms are the fine print that decides who runs the company in year three. Spend the $5–15K on counsel here without flinching.
+
+[OPERATIONS] The raise playbook — a sales pipeline, run like one
+8–12 week campaign design: build a target list of 50–100 investors (stage/sector/geo fit — spray is visible and mocked); secure warm intros via portfolio founders (apply the pass-along test: would they forward your deck?); run meetings in compressed waves (2–3 weeks → parallel conversations create FOMO and term-sheet auctions); narrate momentum between touches (new pilot, metric slope). Data room before first meeting: deck, financial model, cap table, traction dashboard, LOIs/contract, incorporation docs, tech overview. 'Almost interested' is a no — ask directly for the check size that gets their full attention. Non-dilutive rocket: government grants (DST/BIRAC-style), research commercialization, competitions — slow paperwork, free runway.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] Bootstrap-vs-raise decision made with market-timing math
+[ ] Round target reverse-computed: 18–24 months runway + 20% buffer
+[ ] Dilution model built through A-round, including ESOP expansion
+[ ] Every current SAFE/note stack conversion simulated on paper
+[ ] Instrument chosen per stage: SAFE pre-seed/seed, priced at A
+[ ] Term-sheet red lines internalized: 1x non-participating, no full-ratchet
+[ ] Target list of 50–100 fit investors with intro paths mapped
+[ ] Data room assembled before the first meeting
+     ↳ Deck, model, cap table, docs, LOIs
+[ ] Meetings compressed into 2–3 parallel weeks — auction logic
+[ ] Non-dilutive options applied: grants, competitions, research funds
+[ ] Counsel retained for term-sheet negotiation — never DIY this
+[ ] Post-close plan: monthly investor update template starting month one
+     ↳ Investors you update become investors who intro
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. SAFE stacking to a valuation cliff
+    Multiple SAFEs at different caps/converts without modeling ownership at conversion. The next priced round's math detonates — founders discover they own 51%→31% in one signature. Model every instrument together before each new signature.
+
+02. Celebrating valuation, ignoring terms
+    A $15M headline with participating preferences and a 5-member investor board is a worse deal than $10M with clean terms. Valuation buys you a press tweet; terms decide your company's governance for a decade.
+
+03. Raising too little to reach the next risk-retirement
+    Twelve-month runway with no margin for a failed experiment forces a raise from weakness — the worst negotiating position in business. Underpricing the ask is unpunished optimism; run the milestone map, then add six months.
+
+04. Pitching spray-and-pray
+    Blasting 500 cold emails marks you as low-signal before any deck opens. Capital at early stages flows along trust networks: founders → angels → funds. Earn warm paths — one strong portfolio-founder intro outclasses a hundred cold sends.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+SAFE — Simple Agreement for Future Equity — converts at the next priced round; fast, standard
+Valuation cap — Ceiling price at which a SAFE converts — protects early risk-takers
+Discount — Conversion rebate (usu. 10–25%) off the next round's price
+Pre vs post-money — Valuation before vs after new cash — changes real dilution materially
+Liquidation preference — Who gets paid first at exit; 1x non-participating is market standard
+Pro-rata rights — Right to invest in future rounds to maintain ownership %
+Anti-dilution — Down-round protection; weighted-average is standard, full-ratchet toxic
+Runway — Months of survival left: cash ÷ net burn
+Data room — The diligence folder investors open: docs, model, cap table, contracts
+Term sheet — The non-binding outline of a deal before final docs; where the war is won
+Down round — Raising at a lower valuation than the previous round; morale & morale-engine damage
+Non-dilutive capital — Grants, prizes, credits — money that doesn't cost ownership
+
+────────────────────────────────────────────────────────────────────────
+» GATE 10 — Instrument clarity, dilution math done, pipeline built, and lawyer-grade term literacy.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+CHAPTER 11 — GROWTH, METRICS & THE LONG GAME
+PHASE 4 · FUEL & SCALE
+"Scale what compounds, measure what matters, survive your own psychology."
+========================================================================
+
+Post-launch, the game changes gear: from searching to operating. This final chapter arms you with the measurement operating system (AARRR funnels, cohort retention, north star metric), the scaling triggers that say 'now spend', the operating artifacts of a real company (metrics reviews, board cadence, investor updates), and the chapters founders skip and regret: failure autopsies, pivot taxonomy, and the psychology of playing a decade-long game. The goal isn't to grow fast — it's to still be compounding in year seven.
+
+────────────────────────────────────────────────────────────────────────
+CONCEPTS
+────────────────────────────────────────────────────────────────────────
+
+[MEASUREMENT] AARRR — the pirate operating system
+Instrument the five funnels and own one number per stage weekly: Acquisition (where do users arrive — channel, CAC by channel), Activation (% reaching the aha moment/action), Retention (% returning at day-7/30 — THE metric), Referral (K-factor, invites sent), Revenue (ARPU, conversion to paid). One metric per stage, displayed in one dashboard, reviewed in one weekly ritual with the whole team. Companies that measure one north-star per stage weekly behave like speedboats; companies that check quarterly dashboards behave like cruise ships — and startups are races in fog.
+
+[RETENTION] The flat line that predicts everything
+Cohort retention curves (track each week's users separately) are your truth serum: curves that decay to zero = leaking bucket, stop acquisition spend; curves that flatten at ANY level = foundation you can build on. Benchmarks worth knowing: consumer social lives at 20–30% D30 retention; B2B SaaS targets logo churn <2%/mo, revenue churn (NDR) >100%. Your fix-orders: onboarding activation first, the aha-path second, notification/service loops third. Sequoia's whole diligence sheet is just asking: where does the curve flatten, and is the flat part rising?
+
+[NORTH STAR] One north star, or none
+One metric of delivered value that unites everything: Facebook's DAU/MAU, Airbnb's nights booked, Slack's messages sent by teams. Choose one that (a) measures customer value delivered, not company vanity, (b) leading-indicates revenue, (c) every team can influence. Then the compound ritual: weekly north-star review + input metrics each team owns. The discipline is refusing ten dashboards of noise; great companies feel the whole org pulling one number in one direction.
+
+[SCALING] When to actually step on the gas
+Scale triggers, in checklist form: retention curve flattened for 3+ cohorts; one channel profitable/repeatable (LTV:CAC ≥ 3 at the margin, not average); sales playbook repeatable by someone who isn't you (documented, closed by others 3+ times); unit economics hold at 2–3× volume (prices, support costs, margins); cash math supports 24 months at the new burn with buffer. Then: hire against the bottleneck (usually GTM before headcount everywhere), preserve culture deliberately (values doc at 10 people, not 50), and double the working channel before hunting new ones. Premature scaling is the data-proven #1 killer — do the boring checks.
+
+[OPERATING] Board, updates, and the metrics machinery
+Run the company like the one you're becoming: monthly investor update (metrics, wins, misses, asks — investors who know your state become intro machines when you need them); monthly leadership review (north star + input metrics + one theme per month); quarterly board meeting even if the board is two founders (strategy deck, cash runway, key risks, asks-of-the-room). The operating artifacts force clarity: writing the update exposes sloppy thinking better than any meeting. A company that measures itself well raises rounds from strength.
+
+[ENDGAME] Failure autopsies, pivots & the psychology of the decade game
+Autopsy the top five killers: no market need (validation theater), cash out (raised late/spent wrong), wrong team (divorce, skill gaps), outcompeted (no moat), pricing/model (chapter 05 skipped). Pivot taxonomy when evidence demands it: zoom-in (one feature becomes the product), customer-segment (same product, new buyer), platform (product becomes ecosystem), business-architecture (high-margin low-volume ⇄ its inverse). And the founder layer nobody teaches: cofounder check-ins scheduled like board meetings, sleep as strategy not weakness, identity separation (you are not your cap table), crises normalized in advance with your team. Decade games are won by the still-standing: default-alive beats brilliant-and-burnt. Your ultimate moat is endurance.
+
+────────────────────────────────────────────────────────────────────────
+FIELD CHECKLIST
+────────────────────────────────────────────────────────────────────────
+
+[ ] AARRR dashboard live, one metric per stage, reviewed weekly
+[ ] Cohort retention curves plotted from user #1
+     ↳ Flattening is the signal; level is the bet
+[ ] North star chosen: value-delivered, revenue-leading, team-influenceable
+[ ] Weekly metrics ritual recurring — same time, whole team
+[ ] Scale triggers documented and met (retention, channel, economics)
+[ ] Repeatable playbook exists for one channel — runs without you
+[ ] Monthly investor update template shipped even to zero investors
+     ↳ Your future self is the first investor to update
+[ ] Quarterly board-style strategic review on the calendar
+[ ] Hired against the named bottleneck, not general anxiety
+[ ] Pivot taxonomy understood — you know which turn the data would demand
+[ ] Failure post-mortem written for every big miss, including near-misses
+[ ] Personal runway (psychological + financial) checked quarterly — the decade game survives founders who survive
+
+────────────────────────────────────────────────────────────────────────
+LANDMINES — DON'T STEP HERE
+────────────────────────────────────────────────────────────────────────
+
+01. Vanity metrics in the cockpit
+    Signups, downloads, pageviews, and Twitter likes climb while the company dies underneath. Dashboards exist to change decisions; swap every vanity metric for its actionable answer — activation rate, week-1 retention, CAC-by-channel.
+
+02. Scaling a leaky bucket
+    `More marketing' is the default answer to flat growth and usually the wrong one. When D30 collapses, every new user is future churn data. The expensive trick of bad founders: hiding retention problems under acquisition spend until the runway reality arrives.
+
+03. Hoarding decisions at the founder desk
+    Scaling is mostly delegation: if 40 decisions a day still route to you at 15 people, you are the bottleneck wearing a heroic costume. Write the operating principles, delegate decisions with error budgets, and grade yourself on decisions others make well.
+
+04. Letting the company eat the founder
+    The most dangerous runway is your own: four hours of sleep, no non-startup humans in your life, identity fused to metrics. Burnout doesn't announce itself — it arrives as one bad month you can't recover from. Decade games require decade stamina: sleep, relationships, physical training as infrastructure.
+
+────────────────────────────────────────────────────────────────────────
+THE LEXICON
+────────────────────────────────────────────────────────────────────────
+
+AARRR — Acquisition, Activation, Retention, Referral, Revenue — the pirate metrics
+Cohort — A group of users who started together; retention curves per cohort reveal truth
+North star metric — One value-delivered number that aligns every team's effort
+NDR — Net dollar retention — expansion minus churn; >100% compounds without acquisition
+Flat retention curve — The flattening asymptote that proves a product can hold water
+Scale triggers — The evidence set that justifies spend: retention + channel + economics
+GMV — Gross merchandise value — total transaction flow mattering to marketplaces
+Rule of 40 — Growth% + profit margin ≥ 40 — the SaaS health heuristic post-A
+Burn multiple — Net burn ÷ net-new ARR; <2 is efficient after Seed
+Pivot taxonomy — Zoom-in, segment, platform, architecture — structured turns, not random restarts
+Default alive — Profitability reachable on current trajectory before cash-out — the calm position
+The decade game — Compounding careers beat compounding features; stamina as moat
+
+────────────────────────────────────────────────────────────────────────
+» GATE 11 — A flat retention curve, a working machine, and a founder built for the decade.
+────────────────────────────────────────────────────────────────────────
+
+
+========================================================================
+APPENDIX A — THE SIX FOUNDER LAWS
+========================================================================
+
+01. Fall in love with the problem — Solutions change weekly; problems are durable. Founders who marry their first solution die with it.
+
+02. Evidence beats elegance — Three paying strangers outrank a cinematic deck. Investors fund proof, judges fund proof, markets fund proof.
+
+03. Growth is the definition — 5–7% weekly is alive. Everything else — logos, press, incubator badges — is decoration on the number.
+
+04. Vesting or nothing — Equity without vesting is a landmine under the whole team. Sign papers while you still like each other.
+
+05. Charge from week one — Free users teach you nothing about willingness to pay. Price is a probe; use it early and often.
+
+06. Default alive is the position — Survival is the strategy. Companies die when the money runs out — everything else is just contributing causes.
+
+
+END OF FILE — ALL GATES PASSED. NOW GO PLAY.
